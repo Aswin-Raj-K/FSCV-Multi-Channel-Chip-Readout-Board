@@ -1,0 +1,27 @@
+\t (00:04:26) allegro 23.1 S002 Windows SPB 64-bit Edition
+\t (00:04:26)     Journal start - Sat Mar  9 16:22:21 2024
+\t (00:04:26)         Host=ARK User=kaswi Pid=28160 CPUs=20
+\t (00:04:26) CmdLine= d:\softwares\orcad\tools\bin\allegro.exe D:\Projects\PCB\FSCV Board V2\PCBEditor\Libraries\DBV0005A-IPC_A.dra
+\t (00:04:26) 
+\d (00:04:26) Design opened: D:/Projects/PCB/FSCV Board V2/PCBEditor/Libraries/DBV0005A-IPC_A.dra
+\i (00:04:26) trapsize 2833
+\i (00:04:26) generaledit 
+\i (00:04:28) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:28) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:28) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:28) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:33) roam start
+\i (00:04:33) roam x -16
+\i (00:04:33) roam x -16
+\i (00:04:33) roam x -32
+\i (00:04:33) roam end
+\i (00:04:38) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:38) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:39) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:49) opencd 'D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/fscvmotherboardv2.brd' 
+\t (00:04:49) Opening existing design...
+\i (00:04:49) trapsize 692
+\i (00:04:49) trapsize 711
+\i (00:04:49) trapsize 692
+\i (00:04:49) trapsize 850
+\t (00:04:49)     Journal end - Sat Mar  9 16:22:44 2024

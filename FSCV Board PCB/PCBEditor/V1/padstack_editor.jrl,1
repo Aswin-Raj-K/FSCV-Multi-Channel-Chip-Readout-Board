@@ -1,0 +1,7 @@
+\t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Feb 25 16:10:28 2024
+\t (00:00:00)         Host=ARK User=kaswi Pid=14060 CPUs=20
+\t (00:00:00) CmdLine= padstack_editor -mpssession kaswi -file C:/Users/kaswi/AppData/Local/Temp/#Taaaafz09116.tmp -pname VIA -data C:/Users/kaswi/AppData/Local/Temp/#Taaaagc09116.tmp
+\t (00:00:00) 
+\d (00:00:04) QtSignal MainWindow Exit triggered
+\t (00:00:04)     Journal end - Sun Feb 25 16:10:32 2024

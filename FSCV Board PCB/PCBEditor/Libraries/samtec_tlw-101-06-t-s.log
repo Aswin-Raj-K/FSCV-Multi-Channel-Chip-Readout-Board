@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SAMTEC_TLW-101-06-T-S.dra                     )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Fri Feb 23 22:33:05 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Projects/PCB/FSCV Board V2/PCBEditor/Libraries
+    Name      = samtec_tlw-101-06-t-s.psm
+    User      = kaswi
+    Machine   = ARK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

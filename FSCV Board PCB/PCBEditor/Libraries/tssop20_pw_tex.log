@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TSSOP20_PW_TEX.dra                            )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Sat Mar  2 14:58:34 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Projects/PCB/FSCV Board V2/PCBEditor/Libraries
+    Name      = tssop20_pw_tex.psm
+    User      = kaswi
+    Machine   = ARK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

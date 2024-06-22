@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : fscvmotherboardv2.brd                         )
+(    Software Version : 23.1S002                                      )
+(    Date/Time        : Fri Mar  8 19:57:19 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:/Projects/PCB/FSCV Board V2/Netlist'
+Design Directory:            'D:/Projects/PCB/FSCV Board V2/PCBEditor/V5'
+Old design name:             'D:/Projects/PCB/FSCV Board V2/PCBEditor/V5/fscvmotherboardv2.brd'
+New design name:             'D:/Projects/PCB/FSCV Board V2/PCBEditor/V5/fscvmotherboardv2.brd'
+
+CmdLine: netrev -$ -i D:/Projects/PCB/FSCV Board V2/Netlist -y 1 -h -q netrev_constraint_report.xml D:/Projects/PCB/FSCV Board V2/PCBEditor/V5/#Taaaaai09572.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read D:/Projects/PCB/FSCV Board V2/Netlist/pstchip.dat 
+   Finished reading D:/Projects/PCB/FSCV Board V2/Netlist/pstchip.dat (00:00:00.01)
+Starting to read D:/Projects/PCB/FSCV Board V2/Netlist/pstxprt.dat 
+   Finished reading D:/Projects/PCB/FSCV Board V2/Netlist/pstxprt.dat (00:00:00.00)
+Starting to read D:/Projects/PCB/FSCV Board V2/Netlist/pstxnet.dat 
+   Finished reading D:/Projects/PCB/FSCV Board V2/Netlist/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           D:/Softwares/Orcad/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Softwares/Orcad/share/local/pcb/symbols 
+           D:/Softwares/Orcad/share/pcb/pcb_lib/symbols 
+           D:/Softwares/Orcad/share/pcb/allegrolib/symbols 
+           ../Libraries 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Softwares/Orcad/share/local/pcb/padstacks 
+           D:/Softwares/Orcad/share/pcb/pcb_lib/symbols 
+           D:/Softwares/Orcad/share/pcb/allegrolib/symbols 
+           ../Libraries 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 8 19:57:19 2024
+   DESIGN NAME : 'FSCVMOTHERBOARDV2'
+   PACKAGING ON Feb  5 2024 13:13:35
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:26
+elapsed time  0:00:00
+

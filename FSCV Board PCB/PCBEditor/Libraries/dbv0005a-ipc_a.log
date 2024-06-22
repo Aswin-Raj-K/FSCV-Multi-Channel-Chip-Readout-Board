@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DBV0005A-IPC_A.dra                            )
+(    Software Version : 23.1S002                                      )
+(    Date/Time        : Sat Mar  9 16:19:12 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Projects/PCB/FSCV Board V2/PCBEditor/Libraries
+    Name      = dbv0005a-ipc_a.psm
+    User      = kaswi
+    Machine   = ARK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,980 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_CDS_PINID!PIN_TERMINATION!PIN_TERM_IDENT!PIN_NET_SHORT!PIN_XNET_PINS!
+J!D:/Projects/PCB/FSCV Board V2/PCBEditor/V5/fscvmotherboardv2.brd!Thu Mar  7 16:53:08 2024!-375.0000!-375.0000!375.0000!375.0000!0.0001!millimeters!FSCVMOTHERBOARDV2!65.748031 mil!4!UP TO DATE!
+S!5V_UNREGULATED!U2!5!@fscvmotherboardv2.schematic1(sch_1):ins543665@parts.\volt_reg_adp7118ardz-3.3.normal\(chips)!VOLT_REG_ADP7118ARDZ-3.3_RD-8-1_ADI_ADP7118ARDZ-3.3!!!F15!!!!!!
+S!GND!U2!9!@fscvmotherboardv2.schematic1(sch_1):ins543665@parts.\volt_reg_adp7118ardz-3.3.normal\(chips)!VOLT_REG_ADP7118ARDZ-3.3_RD-8-1_ADI_ADP7118ARDZ-3.3!!!F15!!!!!!
+S!GND!U2!4!@fscvmotherboardv2.schematic1(sch_1):ins543665@parts.\volt_reg_adp7118ardz-3.3.normal\(chips)!VOLT_REG_ADP7118ARDZ-3.3_RD-8-1_ADI_ADP7118ARDZ-3.3!!!F15!!!!!!
+S!3.3V!U2!3!@fscvmotherboardv2.schematic1(sch_1):ins543665@parts.\volt_reg_adp7118ardz-3.3.normal\(chips)!VOLT_REG_ADP7118ARDZ-3.3_RD-8-1_ADI_ADP7118ARDZ-3.3!!!F15!!!!!!
+S!N543791!U2!6!@fscvmotherboardv2.schematic1(sch_1):ins543665@parts.\volt_reg_adp7118ardz-3.3.normal\(chips)!VOLT_REG_ADP7118ARDZ-3.3_RD-8-1_ADI_ADP7118ARDZ-3.3!!!F15!!!!!!
+S!5V_UNREGULATED!U2!7!@fscvmotherboardv2.schematic1(sch_1):ins543665@parts.\volt_reg_adp7118ardz-3.3.normal\(chips)!VOLT_REG_ADP7118ARDZ-3.3_RD-8-1_ADI_ADP7118ARDZ-3.3!!!F15!!!!!!
+S!5V_UNREGULATED!U2!8!@fscvmotherboardv2.schematic1(sch_1):ins543665@parts.\volt_reg_adp7118ardz-3.3.normal\(chips)!VOLT_REG_ADP7118ARDZ-3.3_RD-8-1_ADI_ADP7118ARDZ-3.3!!!F15!!!!!!
+S!3.3V!U2!1!@fscvmotherboardv2.schematic1(sch_1):ins543665@parts.\volt_reg_adp7118ardz-3.3.normal\(chips)!VOLT_REG_ADP7118ARDZ-3.3_RD-8-1_ADI_ADP7118ARDZ-3.3!!!F15!!!!!!
+S!3.3V!U2!2!@fscvmotherboardv2.schematic1(sch_1):ins543665@parts.\volt_reg_adp7118ardz-3.3.normal\(chips)!VOLT_REG_ADP7118ARDZ-3.3_RD-8-1_ADI_ADP7118ARDZ-3.3!!!F15!!!!!!
+S!TIA_OUT_BUF!U26!6!@fscvmotherboardv2.schematic1(sch_1):ins508851@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F13!!!!!!
+S!+5V!U26!1!@fscvmotherboardv2.schematic1(sch_1):ins508851@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F13!!!!!!
+S!GND!U26!3!@fscvmotherboardv2.schematic1(sch_1):ins508851@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F13!!!!!!
+S!TIA_C_OUT_BUF!U26!7!@fscvmotherboardv2.schematic1(sch_1):ins508851@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F13!!!!!!
+S!TIA_M_OUT_BUF!U26!5!@fscvmotherboardv2.schematic1(sch_1):ins508851@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F13!!!!!!
+S!T_VRPS_D_SEL!U26!8!@fscvmotherboardv2.schematic1(sch_1):ins508851@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F13!!!!!!
+S!+5V!U26!2!@fscvmotherboardv2.schematic1(sch_1):ins508851@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F13!!!!!!
+S!-5V!U26!4!@fscvmotherboardv2.schematic1(sch_1):ins508851@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F13!!!!!!
+S!T_VRPS_D!U25!6!@fscvmotherboardv2.schematic1(sch_1):ins488448@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F14!!!!!!
+S!+5V!U25!1!@fscvmotherboardv2.schematic1(sch_1):ins488448@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F14!!!!!!
+S!GND!U25!3!@fscvmotherboardv2.schematic1(sch_1):ins488448@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F14!!!!!!
+S!T_VRPS_C_D!U25!7!@fscvmotherboardv2.schematic1(sch_1):ins488448@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F14!!!!!!
+S!T_VRPS_M_D!U25!5!@fscvmotherboardv2.schematic1(sch_1):ins488448@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F14!!!!!!
+S!T_VRPS_D_SEL!U25!8!@fscvmotherboardv2.schematic1(sch_1):ins488448@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F14!!!!!!
+S!+5V!U25!2!@fscvmotherboardv2.schematic1(sch_1):ins488448@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F14!!!!!!
+S!-5V!U25!4!@fscvmotherboardv2.schematic1(sch_1):ins488448@parts.\tmux6119dcnr.normal\(chips)!TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR!!!F14!!!!!!
+S!VD!VD2!TP!@fscvmotherboardv2.schematic1(sch_1):ins488226@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F135!!!!!!
+S!+1.65V!1.65V!TP!@fscvmotherboardv2.schematic1(sch_1):ins469479@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F153!!!!!!
+S!SNFET_1_VD!SNFET_1_VD!TP!@fscvmotherboardv2.schematic1(sch_1):ins475919@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F152!!!!!!
+S!SNFET_2_VD!SNFET_2_VD!TP!@fscvmotherboardv2.schematic1(sch_1):ins475859@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F151!!!!!!
+S!SNFET_3_VD!SNFET_3_VD!TP!@fscvmotherboardv2.schematic1(sch_1):ins475889@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F150!!!!!!
+S!SNFET_4_VD!SNFET_4_VD!TP!@fscvmotherboardv2.schematic1(sch_1):ins475710@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F149!!!!!!
+S!SNFET_5_VB!SNFET_5_VB!TP!@fscvmotherboardv2.schematic1(sch_1):ins461678@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F148!!!!!!
+S!SNFET_5_VD!SNFET_5_VD!TP!@fscvmotherboardv2.schematic1(sch_1):ins461662@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F147!!!!!!
+S!SNFET_5_VS!SNFET_5_VS!TP!@fscvmotherboardv2.schematic1(sch_1):ins461646@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F146!!!!!!
+S!SNFET_SHARED_VB!SNFET_SHARED_VB!TP!@fscvmotherboardv2.schematic1(sch_1):ins475822@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F145!!!!!!
+S!SNFET_SHARED_VS!SNFET_SHARED_VS!TP!@fscvmotherboardv2.schematic1(sch_1):ins475783@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F144!!!!!!
+S!SPFET_1_VB!SPFET_1_VB!TP!@fscvmotherboardv2.schematic1(sch_1):ins461588@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F143!!!!!!
+S!SPFET_1_VD!SPFET_1_VD!TP!@fscvmotherboardv2.schematic1(sch_1):ins461572@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F142!!!!!!
+S!SPFET_1_VS!SPFET_1_VS!TP!@fscvmotherboardv2.schematic1(sch_1):ins461556@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F141!!!!!!
+S!SPFET_2_VB!SPFET_2_VB!TP!@fscvmotherboardv2.schematic1(sch_1):ins461367@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F140!!!!!!
+S!SPFET_2_VD!SPFET_2_VD!TP!@fscvmotherboardv2.schematic1(sch_1):ins461383@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F139!!!!!!
+S!SPFET_2_VS!SPFET_2_VS!TP!@fscvmotherboardv2.schematic1(sch_1):ins461399@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F138!!!!!!
+S!VB!VB!TP!@fscvmotherboardv2.schematic1(sch_1):ins469427@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F137!!!!!!
+S!VD!VD1!TP!@fscvmotherboardv2.schematic1(sch_1):ins469396@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F136!!!!!!
+S!VDD_IT!VDD_IT1!TP!@fscvmotherboardv2.schematic1(sch_1):ins461763@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F134!!!!!!
+S!VS!VS!TP!@fscvmotherboardv2.schematic1(sch_1):ins469354@parts.\tp.normal\(chips)!TP_SAMTEC_TLW-101-06-T-S_5000!!!F133!!!!!!
+S!+1.65V!+1.65V!TP!@fscvmotherboardv2.schematic1(sch_1):ins383048@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F167!!!!!!
+S!+5V!+5V!TP!@fscvmotherboardv2.schematic1(sch_1):ins383008@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F166!!!!!!
+S!-1.65V!-1.65V!TP!@fscvmotherboardv2.schematic1(sch_1):ins383067@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F165!!!!!!
+S!-5V!-5V!TP!@fscvmotherboardv2.schematic1(sch_1):ins383027@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F164!!!!!!
+S!3.3V!3.3V!TP!@fscvmotherboardv2.schematic1(sch_1):ins543651@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F163!!!!!!
+S!GND!GND1!TP!@fscvmotherboardv2.schematic1(sch_1):ins471023@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F162!!!!!!
+S!IBX_PR!IBX_PR!TP!@fscvmotherboardv2.schematic1(sch_1):ins416229@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F161!!!!!!
+S!IREF_IBX_12!IREF_IBX_12!TP!@fscvmotherboardv2.schematic1(sch_1):ins415300@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F160!!!!!!
+S!IREF_IBX_34!IREF_IBX_34!TP!@fscvmotherboardv2.schematic1(sch_1):ins415323@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F159!!!!!!
+S!IREF_IBX_56!IREF_IBX_56!TP!@fscvmotherboardv2.schematic1(sch_1):ins415356@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F158!!!!!!
+S!IREF_IBX_78!IREF_IBX_78!TP!@fscvmotherboardv2.schematic1(sch_1):ins415396@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F157!!!!!!
+S!IREF_IBX_D!IREF_IBX_D!TP!@fscvmotherboardv2.schematic1(sch_1):ins415434@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F156!!!!!!
+S!IREF_TEST_34_SEL!TP1!TP!@fscvmotherboardv2.schematic1(sch_1):ins541214@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F155!!!!!!
+S!COND_EN_3_SEL!TP2!TP!@fscvmotherboardv2.schematic1(sch_1):ins541170@parts.\tp.normal\(chips)!TP_KEYSTONE_5000_5000!!!F154!!!!!!
+S!XOUT!C1!1!@fscvmotherboardv2.schematic1(sch_1):ins8883@analog.\c.normal\(chips)!C_CAP0805_12P!!!F132!!!!!!
+S!GND!C1!2!@fscvmotherboardv2.schematic1(sch_1):ins8883@analog.\c.normal\(chips)!C_CAP0805_12P!!!F132!!!!!!
+S!XIN!C2!1!@fscvmotherboardv2.schematic1(sch_1):ins8899@analog.\c.normal\(chips)!C_CAP0805_12P!!!F131!!!!!!
+S!GND!C2!2!@fscvmotherboardv2.schematic1(sch_1):ins8899@analog.\c.normal\(chips)!C_CAP0805_12P!!!F131!!!!!!
+S!GND!C50!1!@fscvmotherboardv2.schematic1(sch_1):ins487976@analog.\c.normal\(chips)!C_CAP0805_1U!!!F126!!!!!!
+S!3.3V!C50!2!@fscvmotherboardv2.schematic1(sch_1):ins487976@analog.\c.normal\(chips)!C_CAP0805_1U!!!F126!!!!!!
+S!GND!C51!1!@fscvmotherboardv2.schematic1(sch_1):ins488084@analog.\c.normal\(chips)!C_CAP0805_1U!!!F125!!!!!!
+S!3.3V!C51!2!@fscvmotherboardv2.schematic1(sch_1):ins488084@analog.\c.normal\(chips)!C_CAP0805_1U!!!F125!!!!!!
+S!+5V!C10!1!@fscvmotherboardv2.schematic1(sch_1):ins380141@analog.\c.normal\(chips)!C_CAP0805_1U!!!F130!!!!!!
+S!GND!C10!2!@fscvmotherboardv2.schematic1(sch_1):ins380141@analog.\c.normal\(chips)!C_CAP0805_1U!!!F130!!!!!!
+S!N380998!C13!1!@fscvmotherboardv2.schematic1(sch_1):ins381000@analog.\c.normal\(chips)!C_CAP0805_1U!!!F129!!!!!!
+S!N381018!C13!2!@fscvmotherboardv2.schematic1(sch_1):ins381000@analog.\c.normal\(chips)!C_CAP0805_1U!!!F129!!!!!!
+S!-1.65V!C16!1!@fscvmotherboardv2.schematic1(sch_1):ins382189@analog.\c.normal\(chips)!C_CAP0805_1U!!!F128!!!!!!
+S!GND!C16!2!@fscvmotherboardv2.schematic1(sch_1):ins382189@analog.\c.normal\(chips)!C_CAP0805_1U!!!F128!!!!!!
+S!-5V!C17!1!@fscvmotherboardv2.schematic1(sch_1):ins382350@analog.\c.normal\(chips)!C_CAP0805_1U!!!F127!!!!!!
+S!GND!C17!2!@fscvmotherboardv2.schematic1(sch_1):ins382350@analog.\c.normal\(chips)!C_CAP0805_1U!!!F127!!!!!!
+S!5V_UNREGULATED!C9!1!@fscvmotherboardv2.schematic1(sch_1):ins380291@analog.\c.normal\(chips)!C_CAP0805_1U!!!F124!!!!!!
+S!GND!C9!2!@fscvmotherboardv2.schematic1(sch_1):ins380291@analog.\c.normal\(chips)!C_CAP0805_1U!!!F124!!!!!!
+S!-5V!C11!1!@fscvmotherboardv2.schematic1(sch_1):ins380835@analog.\c.normal\(chips)!C_CAP0805_10U!!!F123!!!!!!
+S!GND!C11!2!@fscvmotherboardv2.schematic1(sch_1):ins380835@analog.\c.normal\(chips)!C_CAP0805_10U!!!F123!!!!!!
+S!5V_UNREGULATED!C12!1!@fscvmotherboardv2.schematic1(sch_1):ins380972@analog.\c.normal\(chips)!C_CAP0805_10U!!!F122!!!!!!
+S!GND!C12!2!@fscvmotherboardv2.schematic1(sch_1):ins380972@analog.\c.normal\(chips)!C_CAP0805_10U!!!F122!!!!!!
+S!5V_UNREGULATED!C14!1!@fscvmotherboardv2.schematic1(sch_1):ins381621@analog.\c.normal\(chips)!C_CAP0805_10U!!!F121!!!!!!
+S!GND!C14!2!@fscvmotherboardv2.schematic1(sch_1):ins381621@analog.\c.normal\(chips)!C_CAP0805_10U!!!F121!!!!!!
+S!+1.65V!C15!1!@fscvmotherboardv2.schematic1(sch_1):ins381377@analog.\c.normal\(chips)!C_CAP0805_10U!!!F120!!!!!!
+S!GND!C15!2!@fscvmotherboardv2.schematic1(sch_1):ins381377@analog.\c.normal\(chips)!C_CAP0805_10U!!!F120!!!!!!
+S!GND!C4!1!@fscvmotherboardv2.schematic1(sch_1):ins363850@analog.\c.normal\(chips)!C_CAP0805_10U!!!F119!!!!!!
+S!3.3V!C4!2!@fscvmotherboardv2.schematic1(sch_1):ins363850@analog.\c.normal\(chips)!C_CAP0805_10U!!!F119!!!!!!
+S!+5V!C54!1!@fscvmotherboardv2.schematic1(sch_1):ins508903@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F84!!!!!!
+S!GND!C54!2!@fscvmotherboardv2.schematic1(sch_1):ins508903@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F84!!!!!!
+S!GND!C55!1!@fscvmotherboardv2.schematic1(sch_1):ins508955@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F83!!!!!!
+S!-5V!C55!2!@fscvmotherboardv2.schematic1(sch_1):ins508955@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F83!!!!!!
+S!+5V!C52!1!@fscvmotherboardv2.schematic1(sch_1):ins488500@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F86!!!!!!
+S!GND!C52!2!@fscvmotherboardv2.schematic1(sch_1):ins488500@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F86!!!!!!
+S!GND!C53!1!@fscvmotherboardv2.schematic1(sch_1):ins488560@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F85!!!!!!
+S!-5V!C53!2!@fscvmotherboardv2.schematic1(sch_1):ins488560@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F85!!!!!!
+S!+5V!C18!1!@fscvmotherboardv2.schematic1(sch_1):ins419013@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F118!!!!!!
+S!GND!C18!2!@fscvmotherboardv2.schematic1(sch_1):ins419013@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F118!!!!!!
+S!-5V!C19!1!@fscvmotherboardv2.schematic1(sch_1):ins419093@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F117!!!!!!
+S!GND!C19!2!@fscvmotherboardv2.schematic1(sch_1):ins419093@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F117!!!!!!
+S!-5V!C25!1!@fscvmotherboardv2.schematic1(sch_1):ins419190@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F111!!!!!!
+S!GND!C25!2!@fscvmotherboardv2.schematic1(sch_1):ins419190@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F111!!!!!!
+S!+5V!C24!1!@fscvmotherboardv2.schematic1(sch_1):ins419260@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F112!!!!!!
+S!GND!C24!2!@fscvmotherboardv2.schematic1(sch_1):ins419260@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F112!!!!!!
+S!+5V!C30!1!@fscvmotherboardv2.schematic1(sch_1):ins419369@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F106!!!!!!
+S!GND!C30!2!@fscvmotherboardv2.schematic1(sch_1):ins419369@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F106!!!!!!
+S!-5V!C31!1!@fscvmotherboardv2.schematic1(sch_1):ins419440@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F105!!!!!!
+S!GND!C31!2!@fscvmotherboardv2.schematic1(sch_1):ins419440@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F105!!!!!!
+S!-5V!C41!1!@fscvmotherboardv2.schematic1(sch_1):ins419580@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F95!!!!!!
+S!GND!C41!2!@fscvmotherboardv2.schematic1(sch_1):ins419580@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F95!!!!!!
+S!+5V!C40!1!@fscvmotherboardv2.schematic1(sch_1):ins419675@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F96!!!!!!
+S!GND!C40!2!@fscvmotherboardv2.schematic1(sch_1):ins419675@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F96!!!!!!
+S!+5V!C44!1!@fscvmotherboardv2.schematic1(sch_1):ins419849@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F92!!!!!!
+S!GND!C44!2!@fscvmotherboardv2.schematic1(sch_1):ins419849@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F92!!!!!!
+S!-5V!C45!1!@fscvmotherboardv2.schematic1(sch_1):ins419865@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F91!!!!!!
+S!GND!C45!2!@fscvmotherboardv2.schematic1(sch_1):ins419865@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F91!!!!!!
+S!+5V!C46!1!@fscvmotherboardv2.schematic1(sch_1):ins420028@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F90!!!!!!
+S!GND!C46!2!@fscvmotherboardv2.schematic1(sch_1):ins420028@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F90!!!!!!
+S!-5V!C47!1!@fscvmotherboardv2.schematic1(sch_1):ins420044@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F89!!!!!!
+S!GND!C47!2!@fscvmotherboardv2.schematic1(sch_1):ins420044@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F89!!!!!!
+S!+5V!C20!1!@fscvmotherboardv2.schematic1(sch_1):ins420253@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F116!!!!!!
+S!GND!C20!2!@fscvmotherboardv2.schematic1(sch_1):ins420253@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F116!!!!!!
+S!-5V!C21!1!@fscvmotherboardv2.schematic1(sch_1):ins420269@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F115!!!!!!
+S!GND!C21!2!@fscvmotherboardv2.schematic1(sch_1):ins420269@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F115!!!!!!
+S!+5V!C26!1!@fscvmotherboardv2.schematic1(sch_1):ins420513@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F110!!!!!!
+S!GND!C26!2!@fscvmotherboardv2.schematic1(sch_1):ins420513@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F110!!!!!!
+S!-5V!C27!1!@fscvmotherboardv2.schematic1(sch_1):ins420529@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F109!!!!!!
+S!GND!C27!2!@fscvmotherboardv2.schematic1(sch_1):ins420529@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F109!!!!!!
+S!+5V!C32!1!@fscvmotherboardv2.schematic1(sch_1):ins420776@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F104!!!!!!
+S!GND!C32!2!@fscvmotherboardv2.schematic1(sch_1):ins420776@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F104!!!!!!
+S!-5V!C33!1!@fscvmotherboardv2.schematic1(sch_1):ins420792@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F103!!!!!!
+S!GND!C33!2!@fscvmotherboardv2.schematic1(sch_1):ins420792@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F103!!!!!!
+S!+5V!C36!1!@fscvmotherboardv2.schematic1(sch_1):ins421114@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F100!!!!!!
+S!GND!C36!2!@fscvmotherboardv2.schematic1(sch_1):ins421114@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F100!!!!!!
+S!-5V!C37!1!@fscvmotherboardv2.schematic1(sch_1):ins421130@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F99!!!!!!
+S!GND!C37!2!@fscvmotherboardv2.schematic1(sch_1):ins421130@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F99!!!!!!
+S!+5V!C42!1!@fscvmotherboardv2.schematic1(sch_1):ins421325@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F94!!!!!!
+S!GND!C42!2!@fscvmotherboardv2.schematic1(sch_1):ins421325@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F94!!!!!!
+S!-5V!C43!1!@fscvmotherboardv2.schematic1(sch_1):ins421341@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F93!!!!!!
+S!GND!C43!2!@fscvmotherboardv2.schematic1(sch_1):ins421341@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F93!!!!!!
+S!+5V!C22!1!@fscvmotherboardv2.schematic1(sch_1):ins421546@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F114!!!!!!
+S!GND!C22!2!@fscvmotherboardv2.schematic1(sch_1):ins421546@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F114!!!!!!
+S!-5V!C23!1!@fscvmotherboardv2.schematic1(sch_1):ins421562@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F113!!!!!!
+S!GND!C23!2!@fscvmotherboardv2.schematic1(sch_1):ins421562@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F113!!!!!!
+S!+5V!C28!1!@fscvmotherboardv2.schematic1(sch_1):ins421668@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F108!!!!!!
+S!GND!C28!2!@fscvmotherboardv2.schematic1(sch_1):ins421668@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F108!!!!!!
+S!-5V!C29!1!@fscvmotherboardv2.schematic1(sch_1):ins421684@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F107!!!!!!
+S!GND!C29!2!@fscvmotherboardv2.schematic1(sch_1):ins421684@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F107!!!!!!
+S!+5V!C34!1!@fscvmotherboardv2.schematic1(sch_1):ins421792@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F102!!!!!!
+S!GND!C34!2!@fscvmotherboardv2.schematic1(sch_1):ins421792@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F102!!!!!!
+S!-5V!C35!1!@fscvmotherboardv2.schematic1(sch_1):ins421808@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F101!!!!!!
+S!GND!C35!2!@fscvmotherboardv2.schematic1(sch_1):ins421808@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F101!!!!!!
+S!+5V!C38!1!@fscvmotherboardv2.schematic1(sch_1):ins421918@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F98!!!!!!
+S!GND!C38!2!@fscvmotherboardv2.schematic1(sch_1):ins421918@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F98!!!!!!
+S!-5V!C39!1!@fscvmotherboardv2.schematic1(sch_1):ins421934@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F97!!!!!!
+S!GND!C39!2!@fscvmotherboardv2.schematic1(sch_1):ins421934@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F97!!!!!!
+S!+5V!C48!1!@fscvmotherboardv2.schematic1(sch_1):ins422829@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F88!!!!!!
+S!GND!C48!2!@fscvmotherboardv2.schematic1(sch_1):ins422829@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F88!!!!!!
+S!-5V!C49!1!@fscvmotherboardv2.schematic1(sch_1):ins422845@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F87!!!!!!
+S!GND!C49!2!@fscvmotherboardv2.schematic1(sch_1):ins422845@analog.\c.normal\(chips)!C_CAP0805_0.1U!!!F87!!!!!!
+S!GND!C3!1!@fscvmotherboardv2.schematic1(sch_1):ins363834@analog.\c.normal\(chips)!C_CAP0805_100N!!!F82!!!!!!
+S!3.3V!C3!2!@fscvmotherboardv2.schematic1(sch_1):ins363834@analog.\c.normal\(chips)!C_CAP0805_100N!!!F82!!!!!!
+S!GND!C5!1!@fscvmotherboardv2.schematic1(sch_1):ins364191@analog.\c.normal\(chips)!C_CAP0805_1N!!!F81!!!!!!
+S!RST!C5!2!@fscvmotherboardv2.schematic1(sch_1):ins364191@analog.\c.normal\(chips)!C_CAP0805_1N!!!F81!!!!!!
+S!5V_UNREGULATED!C6!1!@fscvmotherboardv2.schematic1(sch_1):ins543773@analog.\c.normal\(chips)!C_CAP0805_2.2U!!!F80!!!!!!
+S!GND!C6!2!@fscvmotherboardv2.schematic1(sch_1):ins543773@analog.\c.normal\(chips)!C_CAP0805_2.2U!!!F80!!!!!!
+S!3.3V!C8!1!@fscvmotherboardv2.schematic1(sch_1):ins543801@analog.\c.normal\(chips)!C_CAP0805_2.2U!!!F78!!!!!!
+S!GND!C8!2!@fscvmotherboardv2.schematic1(sch_1):ins543801@analog.\c.normal\(chips)!C_CAP0805_2.2U!!!F78!!!!!!
+S!N543791!C7!1!@fscvmotherboardv2.schematic1(sch_1):ins543827@analog.\c.normal\(chips)!C_CAP0805_2.2U!!!F79!!!!!!
+S!GND!C7!2!@fscvmotherboardv2.schematic1(sch_1):ins543827@analog.\c.normal\(chips)!C_CAP0805_2.2U!!!F79!!!!!!
+S!CH_EN_1!J1!11!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_EN_2!J1!1!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_EN_3!J1!229!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_EN_4!J1!219!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_EN_5!J1!58!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_EN_6!J1!68!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_EN_7!J1!80!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_EN_8!J1!90!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_EN_D!J1!95!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_OUTPUT_1!J1!12!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_OUTPUT_2!J1!240!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_OUTPUT_3!J1!230!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_OUTPUT_4!J1!218!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_OUTPUT_5!J1!57!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_OUTPUT_6!J1!69!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_OUTPUT_7!J1!79!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_OUTPUT_8!J1!91!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CH_OUTPUT_D!J1!110!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!COND_EN_1!J1!7!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!COND_EN_2!J1!4!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!COND_EN_3!J1!225!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!COND_EN_4!J1!222!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!COND_EN_5!J1!62!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!COND_EN_6!J1!65!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!COND_EN_7!J1!84!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!COND_EN_8!J1!87!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!COND_EN_D!J1!105!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DHP_DNA<0>!J1!201!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DHP_DNA<1>!J1!200!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DHP_DNA<2>!J1!199!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DHP_DNA<3>!J1!198!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DHP_DNA<4>!J1!197!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DHP_DNA<5>!J1!196!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DHP_DNA<6>!J1!193!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DHP_DNA<7>!J1!192!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DHP_DNA<8>!J1!191!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DHP_DNA<9>!J1!190!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_1_SHARED_VB!J1!45!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_1_SHARED_VD!J1!42!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_1_VSN!J1!43!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_1_VSP!J1!44!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_2_SHARED_VB!J1!46!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_2_SHARED_VD!J1!41!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_2_VSN!J1!118!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_2_VSP!J1!117!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_3_SHARED_VB!J1!47!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_3_SHARED_VD!J1!40!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_3_VSN!J1!119!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_NFET_3_VSP!J1!120!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_PFET_SHARED_VB!J1!33!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_PFET_SHARED_VD!J1!29!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_PFET_VSN!J1!123!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DIFF_PFET_VSP!J1!124!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DLP_DNA<0>!J1!167!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DLP_DNA<1>!J1!168!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DLP_DNA<2>!J1!169!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DLP_DNA<3>!J1!170!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DLP_DNA<4>!J1!171!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DLP_DNA<5>!J1!172!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DLP_DNA<6>!J1!173!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DLP_DNA<7>!J1!174!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DLP_DNA<8>!J1!175!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!DLP_DNA<9>!J1!176!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!GND!J1!15!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!GND!J1!233!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!GND!J1!54!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!GND!J1!76!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!GND!J1!94!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!GND!J1!129!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HP1O_DNA!J1!215!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HP2O_DNA!J1!214!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HPF_OUT_BUF!J1!109!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HP_BYPASS_EN_1!J1!10!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HP_BYPASS_EN_2!J1!2!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HP_BYPASS_EN_3!J1!228!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HP_BYPASS_EN_4!J1!220!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HP_BYPASS_EN_5!J1!59!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HP_BYPASS_EN_6!J1!67!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HP_BYPASS_EN_7!J1!81!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HP_BYPASS_EN_8!J1!89!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!HP_BYPASS_EN_D!J1!96!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IA_EN_DNA!J1!185!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IBX_IN_DIFF_DNA!J1!181!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IBX_OPA_DNA!J1!180!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IBX_PR!J1!138!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IBX_PR_HP_DNA!J1!202!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IBX_PR_LP_DNA!J1!166!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IB_SEL_HP_DNA<0>!J1!204!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IB_SEL_HP_DNA<1>!J1!205!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IB_SEL_LP_DNA<0>!J1!164!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IB_SEL_LP_DNA<1>!J1!163!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IIN_PR!J1!131!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_EN_12!J1!16!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_EN_34!J1!234!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_EN_56!J1!53!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_EN_78!J1!75!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_EN_D!J1!104!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_EN_DNA!J1!184!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_IBX_12!J1!19!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_IBX_34!J1!237!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_IBX_56!J1!50!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_IBX_78!J1!72!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_IBX_D!J1!101!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_OFF_CHIP_PR!J1!141!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_REXT_12!J1!17!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_REXT_34!J1!235!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_REXT_56!J1!52!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_REXT_78!J1!74!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_REXT_D!J1!102!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_SWITCH_PR!J1!140!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_TEST_12!J1!18!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_TEST_34!J1!236!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_TEST_56!J1!51!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_TEST_78!J1!73!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!IREF_TEST_D!J1!98!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!LPO_DNA!J1!213!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_1!J1!20!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_10!J1!116!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_11!J1!127!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_12!J1!128!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_15!J1!142!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_16!J1!143!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_17!J1!144!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_18!J1!145!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_19!J1!146!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_2!J1!21!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_20!J1!147!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_21!J1!148!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_22!J1!149!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_23!J1!150!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_24!J1!151!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_25!J1!152!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_26!J1!153!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_27!J1!154!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_28!J1!155!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_29!J1!156!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_3!J1!48!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_30!J1!157!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_31!J1!158!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_32!J1!159!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_33!J1!160!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_34!J1!161!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_35!J1!216!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_36!J1!217!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_37!J1!238!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_38!J1!239!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_4!J1!49!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_5!J1!70!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_6!J1!71!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_7!J1!92!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_8!J1!93!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!NO_CONNEC_9!J1!115!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!REXT_IN_DIFF_DNA!J1!182!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!REXT_OPA_DNA!J1!183!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!REXT_PR!J1!139!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SEL1_PR!J1!137!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SEL2_PR!J1!136!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SEL3_PR!J1!135!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SENSOR_1!J1!9!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SENSOR_2!J1!3!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SENSOR_3!J1!227!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SENSOR_4!J1!221!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SENSOR_5!J1!60!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SENSOR_6!J1!66!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SENSOR_7!J1!82!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SENSOR_8!J1!88!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SENSOR_CD!J1!97!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SH_EN_DNA!J1!162!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SNFET_1_VD!J1!38!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SNFET_2_VD!J1!36!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SNFET_3_VD!J1!30!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SNFET_4_VD!J1!32!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SNFET_5_VB!J1!26!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SNFET_5_VD!J1!25!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SNFET_5_VS!J1!24!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SNFET_SHARED_VB!J1!39!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SNFET_SHARED_VS!J1!35!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SPFET_1_VB!J1!27!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SPFET_1_VD!J1!23!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SPFET_1_VS!J1!126!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SPFET_2_VB!J1!28!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SPFET_2_VD!J1!22!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!SPFET_2_VS!J1!125!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!TEST_EN_D!J1!106!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!TIASW_DNA<0>!J1!187!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!TIASW_DNA<1>!J1!188!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!TIA_C_OUT_BUF!J1!107!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!TIA_EN_DNA!J1!189!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!TIA_M_OUT_BUF!J1!108!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!TIA_TST_DNA!J1!186!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!TSTEN_DNA!J1!177!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!T_VRPS_C_12!J1!8!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!T_VRPS_C_34!J1!226!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!T_VRPS_C_56!J1!61!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!T_VRPS_C_78!J1!83!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!T_VRPS_C_D!J1!103!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!T_VRPS_M_12!J1!6!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!T_VRPS_M_34!J1!223!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!T_VRPS_M_56!J1!63!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!T_VRPS_M_78!J1!86!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!T_VRPS_M_D!J1!112!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VBGX_PR_HP_DNA!J1!203!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VBGX_PR_LP_DNA!J1!165!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VCM_HP1_DNA!J1!212!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VCM_HP2_DNA!J1!211!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VCM_LP_DNA!J1!210!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VCM_TIA_DNA!J1!207!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!CM!J1!134!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VDD_12!J1!13!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VDD_34!J1!231!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VDD_56!J1!56!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VDD_78!J1!78!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VDD_DNA_1!J1!195!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VDD_DNA_2!J1!209!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VDD_D!J1!100!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VDD_D!J1!114!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VDD_IT!J1!34!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VDD_IT!J1!122!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!+1.65V!J1!133!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VOUT_PR!J1!130!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VRPS_12!J1!5!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VRPS_34!J1!224!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VRPS_56!J1!64!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VRPS_78!J1!85!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VRPS_D!J1!111!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VSN_DNA!J1!178!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VSP_DNA!J1!179!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!14!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!194!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!208!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!232!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!31!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!37!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!55!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!77!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!99!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!113!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!121!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!-1.65V!J1!132!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VSUB_TIA_DNA!J1!206!@fscvmotherboardv2.schematic1(sch_1):ins997@fscvmotherboardv2_libraries.\fscv hsec8-160-01-l-ra x 2.normal\(chips)!FSCV HSEC8-160-01-L-RA X 2_2XSAMTEC_HSEC8-160-01-X-RA-XX_FSCV HSEC8-160-01-L-RA X 2!!!F77!!!!!!
+S!VRPS_CD!J10!1!@fscvmotherboardv2.schematic1(sch_1):ins406298@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F76!!!!!!
+S!GND!J10!2!@fscvmotherboardv2.schematic1(sch_1):ins406298@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F76!!!!!!
+S!T_VRPS_D!J11!1!@fscvmotherboardv2.schematic1(sch_1):ins406501@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F75!!!!!!
+S!GND!J11!2!@fscvmotherboardv2.schematic1(sch_1):ins406501@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F75!!!!!!
+S!SENSOR_C!J12!1!@fscvmotherboardv2.schematic1(sch_1):ins405859@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F74!!!!!!
+S!GND!J12!2!@fscvmotherboardv2.schematic1(sch_1):ins405859@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F74!!!!!!
+S!CH_OUT_C!J13!1!@fscvmotherboardv2.schematic1(sch_1):ins406124@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F73!!!!!!
+S!GND!J13!2!@fscvmotherboardv2.schematic1(sch_1):ins406124@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F73!!!!!!
+S!T_VRPS_AB!J14!1!@fscvmotherboardv2.schematic1(sch_1):ins406322@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F72!!!!!!
+S!GND!J14!2!@fscvmotherboardv2.schematic1(sch_1):ins406322@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F72!!!!!!
+S!SENSOR_CD!J15!1!@fscvmotherboardv2.schematic1(sch_1):ins406525@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F71!!!!!!
+S!GND!J15!2!@fscvmotherboardv2.schematic1(sch_1):ins406525@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F71!!!!!!
+S!SENSOR_D!J16!1!@fscvmotherboardv2.schematic1(sch_1):ins405883@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F70!!!!!!
+S!GND!J16!2!@fscvmotherboardv2.schematic1(sch_1):ins405883@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F70!!!!!!
+S!CH_OUT_D!J17!1!@fscvmotherboardv2.schematic1(sch_1):ins406148@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F69!!!!!!
+S!GND!J17!2!@fscvmotherboardv2.schematic1(sch_1):ins406148@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F69!!!!!!
+S!T_VRPS_CD!J18!1!@fscvmotherboardv2.schematic1(sch_1):ins406346@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F68!!!!!!
+S!GND!J18!2!@fscvmotherboardv2.schematic1(sch_1):ins406346@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F68!!!!!!
+S!TIA_OUT_BUF!J19!1!@fscvmotherboardv2.schematic1(sch_1):ins406549@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F67!!!!!!
+S!GND!J19!2!@fscvmotherboardv2.schematic1(sch_1):ins406549@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F67!!!!!!
+S!HPF_OUT_BUF!J20!1!@fscvmotherboardv2.schematic1(sch_1):ins406754@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F66!!!!!!
+S!GND!J20!2!@fscvmotherboardv2.schematic1(sch_1):ins406754@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F66!!!!!!
+S!VOUT_PR!J21!1!@fscvmotherboardv2.schematic1(sch_1):ins415831@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F65!!!!!!
+S!GND!J21!2!@fscvmotherboardv2.schematic1(sch_1):ins415831@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F65!!!!!!
+S!IIN_PR!J23!1!@fscvmotherboardv2.schematic1(sch_1):ins415855@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F63!!!!!!
+S!GND!J23!2!@fscvmotherboardv2.schematic1(sch_1):ins415855@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F63!!!!!!
+S!IREF_OFF_CHIP_PR!J24!1!@fscvmotherboardv2.schematic1(sch_1):ins415879@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F62!!!!!!
+S!GND!J24!2!@fscvmotherboardv2.schematic1(sch_1):ins415879@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F62!!!!!!
+S!VS!J25!1!@fscvmotherboardv2.schematic1(sch_1):ins469710@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F61!!!!!!
+S!GND!J25!2!@fscvmotherboardv2.schematic1(sch_1):ins469710@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F61!!!!!!
+S!VD!J26!1!@fscvmotherboardv2.schematic1(sch_1):ins469769@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F60!!!!!!
+S!GND!J26!2!@fscvmotherboardv2.schematic1(sch_1):ins469769@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F60!!!!!!
+S!VB!J27!1!@fscvmotherboardv2.schematic1(sch_1):ins469829@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F59!!!!!!
+S!GND!J27!2!@fscvmotherboardv2.schematic1(sch_1):ins469829@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F59!!!!!!
+S!CM_EXT!J22!1!@fscvmotherboardv2.schematic1(sch_1):ins470075@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F64!!!!!!
+S!GND!J22!2!@fscvmotherboardv2.schematic1(sch_1):ins470075@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F64!!!!!!
+S!SENSOR_A!J4!1!@fscvmotherboardv2.schematic1(sch_1):ins405607@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F58!!!!!!
+S!GND!J4!2!@fscvmotherboardv2.schematic1(sch_1):ins405607@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F58!!!!!!
+S!CH_OUT_A!J5!1!@fscvmotherboardv2.schematic1(sch_1):ins406076@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F57!!!!!!
+S!GND!J5!2!@fscvmotherboardv2.schematic1(sch_1):ins406076@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F57!!!!!!
+S!VRPS_AB!J6!1!@fscvmotherboardv2.schematic1(sch_1):ins406274@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F56!!!!!!
+S!GND!J6!2!@fscvmotherboardv2.schematic1(sch_1):ins406274@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F56!!!!!!
+S!VRPS_D!J7!1!@fscvmotherboardv2.schematic1(sch_1):ins406477@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F55!!!!!!
+S!GND!J7!2!@fscvmotherboardv2.schematic1(sch_1):ins406477@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F55!!!!!!
+S!SENSOR_B!J8!1!@fscvmotherboardv2.schematic1(sch_1):ins405779@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F54!!!!!!
+S!GND!J8!2!@fscvmotherboardv2.schematic1(sch_1):ins405779@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F54!!!!!!
+S!CH_OUT_B!J9!1!@fscvmotherboardv2.schematic1(sch_1):ins406100@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F53!!!!!!
+S!GND!J9!2!@fscvmotherboardv2.schematic1(sch_1):ins406100@fscvmotherboardv2_libraries.\connec2.normal\(chips)!CONNEC2_MOLEX_53047-0210_CONNEC2!!!F53!!!!!!
+S!TDO!J2!1!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!!J2!10!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!RST!J2!11!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!!J2!12!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!!J2!13!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!!J2!14!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!!J2!2!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!TDI!J2!3!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!3.3V!J2!4!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!TMS!J2!5!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!!J2!6!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!TCK!J2!7!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!TEST!J2!8!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!GND!J2!9!@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\jtag_87831-1420.normal\(chips)!JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG!!!F52!!!!!!
+S!5V_UNREGULATED!J3!1A!@fscvmotherboardv2.schematic1(sch_1):ins379311@fscvmotherboardv2_libraries.\powerjack_pj-002ah-smt-tr.normal\(chips)!POWERJACK_PJ-002AH-SMT-TR_CUI_PJ-002AH-SMT-TR_PJ-002AH-SMT-TR!!!F51!!!!!!
+S!5V_UNREGULATED!J3!1B!@fscvmotherboardv2.schematic1(sch_1):ins379311@fscvmotherboardv2_libraries.\powerjack_pj-002ah-smt-tr.normal\(chips)!POWERJACK_PJ-002AH-SMT-TR_CUI_PJ-002AH-SMT-TR_PJ-002AH-SMT-TR!!!F51!!!!!!
+S!GND!J3!2!@fscvmotherboardv2.schematic1(sch_1):ins379311@fscvmotherboardv2_libraries.\powerjack_pj-002ah-smt-tr.normal\(chips)!POWERJACK_PJ-002AH-SMT-TR_CUI_PJ-002AH-SMT-TR_PJ-002AH-SMT-TR!!!F51!!!!!!
+S!GND!J3!3!@fscvmotherboardv2.schematic1(sch_1):ins379311@fscvmotherboardv2_libraries.\powerjack_pj-002ah-smt-tr.normal\(chips)!POWERJACK_PJ-002AH-SMT-TR_CUI_PJ-002AH-SMT-TR_PJ-002AH-SMT-TR!!!F51!!!!!!
+S!3.3V!R1!1!@fscvmotherboardv2.schematic1(sch_1):ins364225@analog.\r.normal\(chips)!R_RES0805_47K!!!F50!!!!!!
+S!RST!R1!2!@fscvmotherboardv2.schematic1(sch_1):ins364225@analog.\r.normal\(chips)!R_RES0805_47K!!!F50!!!!!!
+S!RESET2!R7!1!@fscvmotherboardv2.schematic1(sch_1):ins388102@analog.\r.normal\(chips)!R_RES0805_10K!!!F34!!!!!!
+S!3.3V!R7!2!@fscvmotherboardv2.schematic1(sch_1):ins388102@analog.\r.normal\(chips)!R_RES0805_10K!!!F34!!!!!!
+S!INT1!R2!1!@fscvmotherboardv2.schematic1(sch_1):ins387085@analog.\r.normal\(chips)!R_RES0805_10K!!!F39!!!!!!
+S!3.3V!R2!2!@fscvmotherboardv2.schematic1(sch_1):ins387085@analog.\r.normal\(chips)!R_RES0805_10K!!!F39!!!!!!
+S!RESET1!R3!1!@fscvmotherboardv2.schematic1(sch_1):ins387213@analog.\r.normal\(chips)!R_RES0805_10K!!!F38!!!!!!
+S!3.3V!R3!2!@fscvmotherboardv2.schematic1(sch_1):ins387213@analog.\r.normal\(chips)!R_RES0805_10K!!!F38!!!!!!
+S!SDA!R4!1!@fscvmotherboardv2.schematic1(sch_1):ins525148@analog.\r.normal\(chips)!R_RES0805_10K!!!F37!!!!!!
+S!3.3V!R4!2!@fscvmotherboardv2.schematic1(sch_1):ins525148@analog.\r.normal\(chips)!R_RES0805_10K!!!F37!!!!!!
+S!SCL!R5!1!@fscvmotherboardv2.schematic1(sch_1):ins525164@analog.\r.normal\(chips)!R_RES0805_10K!!!F36!!!!!!
+S!3.3V!R5!2!@fscvmotherboardv2.schematic1(sch_1):ins525164@analog.\r.normal\(chips)!R_RES0805_10K!!!F36!!!!!!
+S!INT2!R6!1!@fscvmotherboardv2.schematic1(sch_1):ins388086@analog.\r.normal\(chips)!R_RES0805_10K!!!F35!!!!!!
+S!3.3V!R6!2!@fscvmotherboardv2.schematic1(sch_1):ins388086@analog.\r.normal\(chips)!R_RES0805_10K!!!F35!!!!!!
+S!N382215!R12!1!@fscvmotherboardv2.schematic1(sch_1):ins382173@analog.\r.normal\(chips)!R_RES0805_100K!!!F47!!!!!!
+S!-1.65V!R12!2!@fscvmotherboardv2.schematic1(sch_1):ins382173@analog.\r.normal\(chips)!R_RES0805_100K!!!F47!!!!!!
+S!IBX_PR!R14!1!@fscvmotherboardv2.schematic1(sch_1):ins416196@analog.\r.normal\(chips)!R_RES0805_100K!!!F46!!!!!!
+S!-1.65V!R14!2!@fscvmotherboardv2.schematic1(sch_1):ins416196@analog.\r.normal\(chips)!R_RES0805_100K!!!F46!!!!!!
+S!IREF_IBX_12!R15!1!@fscvmotherboardv2.schematic1(sch_1):ins407799@analog.\r.normal\(chips)!R_RES0805_100K!!!F45!!!!!!
+S!-1.65V!R15!2!@fscvmotherboardv2.schematic1(sch_1):ins407799@analog.\r.normal\(chips)!R_RES0805_100K!!!F45!!!!!!
+S!IREF_IBX_34!R16!1!@fscvmotherboardv2.schematic1(sch_1):ins414866@analog.\r.normal\(chips)!R_RES0805_100K!!!F44!!!!!!
+S!-1.65V!R16!2!@fscvmotherboardv2.schematic1(sch_1):ins414866@analog.\r.normal\(chips)!R_RES0805_100K!!!F44!!!!!!
+S!IREF_IBX_56!R17!1!@fscvmotherboardv2.schematic1(sch_1):ins415057@analog.\r.normal\(chips)!R_RES0805_100K!!!F43!!!!!!
+S!-1.65V!R17!2!@fscvmotherboardv2.schematic1(sch_1):ins415057@analog.\r.normal\(chips)!R_RES0805_100K!!!F43!!!!!!
+S!IREF_IBX_78!R18!1!@fscvmotherboardv2.schematic1(sch_1):ins407829@analog.\r.normal\(chips)!R_RES0805_100K!!!F42!!!!!!
+S!-1.65V!R18!2!@fscvmotherboardv2.schematic1(sch_1):ins407829@analog.\r.normal\(chips)!R_RES0805_100K!!!F42!!!!!!
+S!IREF_IBX_D!R19!1!@fscvmotherboardv2.schematic1(sch_1):ins407869@analog.\r.normal\(chips)!R_RES0805_100K!!!F41!!!!!!
+S!-1.65V!R19!2!@fscvmotherboardv2.schematic1(sch_1):ins407869@analog.\r.normal\(chips)!R_RES0805_100K!!!F41!!!!!!
+S!GND!R13!1!@fscvmotherboardv2.schematic1(sch_1):ins382217@analog.\r.normal\(chips)!R_RES0805_32K!!!F40!!!!!!
+S!N382215!R13!2!@fscvmotherboardv2.schematic1(sch_1):ins382217@analog.\r.normal\(chips)!R_RES0805_32K!!!F40!!!!!!
+S!N381395!R10!1!@fscvmotherboardv2.schematic1(sch_1):ins381361@analog.\r.normal\(chips)!R_RES0805_105K!!!F49!!!!!!
+S!+1.65V!R10!2!@fscvmotherboardv2.schematic1(sch_1):ins381361@analog.\r.normal\(chips)!R_RES0805_105K!!!F49!!!!!!
+S!GND!R11!1!@fscvmotherboardv2.schematic1(sch_1):ins381405@analog.\r.normal\(chips)!R_RES0805_280K!!!F48!!!!!!
+S!N381395!R11!2!@fscvmotherboardv2.schematic1(sch_1):ins381405@analog.\r.normal\(chips)!R_RES0805_280K!!!F48!!!!!!
+S!CM!SW1!1!@fscvmotherboardv2.schematic1(sch_1):ins470164@fscvmotherboardv2_libraries.\switch_1p2t_mss-102559-14a-d.normal\(chips)!SWITCH_1P2T_MSS-102559-14A-D_SW_MSS-102559-14A-D_MSS-102559-14A-D!!!F33!!!!!!
+S!CM_EXT!SW1!2!@fscvmotherboardv2.schematic1(sch_1):ins470164@fscvmotherboardv2_libraries.\switch_1p2t_mss-102559-14a-d.normal\(chips)!SWITCH_1P2T_MSS-102559-14A-D_SW_MSS-102559-14A-D_MSS-102559-14A-D!!!F33!!!!!!
+S!GND!SW1!3!@fscvmotherboardv2.schematic1(sch_1):ins470164@fscvmotherboardv2_libraries.\switch_1p2t_mss-102559-14a-d.normal\(chips)!SWITCH_1P2T_MSS-102559-14A-D_SW_MSS-102559-14A-D_MSS-102559-14A-D!!!F33!!!!!!
+S!3.3V!U1!15!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!GND!U1!14!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!28!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!27!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!26!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!25!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!TCK!U1!24!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!TMS!U1!23!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!TDI!U1!22!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!TDO!U1!21!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!42!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!41!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!40!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!39!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!38!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!37!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!RESET1!U1!36!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!INT1!U1!35!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!IREF_TEST_12_SEL!U1!56!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!EN_78_SEL!U1!55!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!CH_EN_2_SEL!U1!54!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!COND_EN_5_SEL!U1!53!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!HP_BYPASS_EN_2_SEL!U1!52!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!COND_EN_2_SEL!U1!51!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!COND_EN_6_SEL!U1!50!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!HP_BYPASS_EN_6_SEL!U1!49!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!18!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!XIN!U1!13!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!XOUT!U1!12!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!11!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!CH_CD_SEL!U1!10!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!CH_AB_SEL!U1!9!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!CH_A_SEL!U1!8!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!CH_D_SEL!U1!7!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!RESET2!U1!34!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!INT2!U1!33!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!SDA!U1!32!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!SCL!U1!31!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!30!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!29!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!COND_EN_1_SEL!U1!48!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!CH_EN_6_SEL!U1!47!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!HP_BYPASS_EN_1_SEL!U1!46!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!CH_EN_1_SEL!U1!45!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!IREF_TEST_78_SEL!U1!44!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!43!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!CH_AB_COND_SEL!U1!6!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!CH_CD_COND_SEL!U1!5!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!CH_C_SEL!U1!4!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!CH_B_SEL!U1!3!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!IREF_EN_78_SEL!U1!2!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!IREF_EN_12_SEL!U1!1!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!20!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!!U1!19!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!RST!U1!16!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!TEST!U1!17!@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\msp430fr4132ig56.normal\(sch_1)!MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56!!!F32!!!!!!
+S!IREF_TEST_56!U10!3!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!IREF_EN_56!U10!8!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!!U10!13!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!!U10!18!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!GND!U10!15!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!GND!U10!6!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!-1.65V!U10!2!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!+1.65V!U10!4!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!-1.65V!U10!9!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!+1.65V!U10!7!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!!U10!12!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!!U10!14!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!!U10!19!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!!U10!17!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!IREF_TEST_56_SEL!U10!1!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!IREF_EN_56_SEL!U10!10!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!!U10!11!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!!U10!20!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!+5V!U10!16!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!-5V!U10!5!@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F31!!!!!!
+S!HP_BYPASS_EN_4!U11!3!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!COND_EN_4!U11!8!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!COND_EN_3!U11!13!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!HP_BYPASS_EN_3!U11!18!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!GND!U11!15!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!GND!U11!6!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!-1.65V!U11!2!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!+1.65V!U11!4!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!-1.65V!U11!9!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!+1.65V!U11!7!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!-1.65V!U11!12!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!+1.65V!U11!14!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!-1.65V!U11!19!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!+1.65V!U11!17!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!HP_BYPASS_EN_4_SEL!U11!1!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!COND_EN_4_SEL!U11!10!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!COND_EN_3_SEL!U11!11!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!HP_BYPASS_EN_3_SEL!U11!20!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!+5V!U11!16!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!-5V!U11!5!@fscvmotherboardv2.schematic1(sch_1):ins393962@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F30!!!!!!
+S!HP_BYPASS_EN_1!U12!3!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!CH_EN_1!U12!8!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!IREF_TEST_78!U12!13!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!VDD_12!U12!18!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!GND!U12!15!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!GND!U12!6!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!-1.65V!U12!2!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!+1.65V!U12!4!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!-1.65V!U12!9!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!+1.65V!U12!7!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!-1.65V!U12!12!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!+1.65V!U12!14!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!-1.65V!U12!19!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!+1.65V!U12!17!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!HP_BYPASS_EN_1_SEL!U12!1!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!CH_EN_1_SEL!U12!10!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!IREF_TEST_78_SEL!U12!11!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!EN_12_SEL!U12!20!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!+5V!U12!16!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!-5V!U12!5!@fscvmotherboardv2.schematic1(sch_1):ins392337@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F29!!!!!!
+S!COND_EN_6!U13!3!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!HP_BYPASS_EN_6!U13!8!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!COND_EN_1!U13!13!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!CH_EN_6!U13!18!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!GND!U13!15!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!GND!U13!6!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!-1.65V!U13!2!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!+1.65V!U13!4!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!-1.65V!U13!9!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!+1.65V!U13!7!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!-1.65V!U13!12!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!+1.65V!U13!14!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!-1.65V!U13!19!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!+1.65V!U13!17!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!COND_EN_6_SEL!U13!1!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!HP_BYPASS_EN_6_SEL!U13!10!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!COND_EN_1_SEL!U13!11!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!CH_EN_6_SEL!U13!20!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!+5V!U13!16!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!-5V!U13!5!@fscvmotherboardv2.schematic1(sch_1):ins393126@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F28!!!!!!
+S!HP_BYPASS_EN_8!U14!3!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!CH_EN_8!U14!8!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!CH_EN_D!U14!13!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!HP_BYPASS_EN_D!U14!18!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!GND!U14!15!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!GND!U14!6!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!-1.65V!U14!2!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!+1.65V!U14!4!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!-1.65V!U14!9!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!+1.65V!U14!7!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!-1.65V!U14!12!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!+1.65V!U14!14!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!-1.65V!U14!19!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!+1.65V!U14!17!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!HP_BYPASS_EN_8_SEL!U14!1!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!CH_EN_8_SEL!U14!10!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!CH_EN_D_SEL!U14!11!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!HP_BYPASS_EN_D_SEL!U14!20!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!+5V!U14!16!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!-5V!U14!5!@fscvmotherboardv2.schematic1(sch_1):ins394140@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F27!!!!!!
+S!CH_EN_7!U15!3!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!HP_BYPASS_EN_7!U15!8!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!COND_EN_7!U15!13!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!COND_EN_8!U15!18!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!GND!U15!15!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!GND!U15!6!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!-1.65V!U15!2!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!+1.65V!U15!4!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!-1.65V!U15!9!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!+1.65V!U15!7!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!-1.65V!U15!12!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!+1.65V!U15!14!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!-1.65V!U15!19!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!+1.65V!U15!17!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!CH_EN_7_SEL!U15!1!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!HP_BYPASS_EN_7_SEL!U15!10!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!COND_EN_7_SEL!U15!11!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!COND_EN_8_SEL!U15!20!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!+5V!U15!16!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!-5V!U15!5!@fscvmotherboardv2.schematic1(sch_1):ins398427@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F26!!!!!!
+S!CH_EN_2!U16!3!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!COND_EN_5!U16!8!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!HP_BYPASS_EN_2!U16!13!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!COND_EN_2!U16!18!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!GND!U16!15!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!GND!U16!6!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!-1.65V!U16!2!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!+1.65V!U16!4!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!-1.65V!U16!9!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!+1.65V!U16!7!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!-1.65V!U16!12!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!+1.65V!U16!14!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!-1.65V!U16!19!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!+1.65V!U16!17!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!CH_EN_2_SEL!U16!1!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!COND_EN_5_SEL!U16!10!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!HP_BYPASS_EN_2_SEL!U16!11!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!COND_EN_2_SEL!U16!20!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!+5V!U16!16!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!-5V!U16!5!@fscvmotherboardv2.schematic1(sch_1):ins398605@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F25!!!!!!
+S!VDD_56!U17!3!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!CH_EN_5!U17!8!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!HP_BYPASS_EN_5!U17!13!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!SEL3_PR!U17!18!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!GND!U17!15!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!GND!U17!6!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!-1.65V!U17!2!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!+1.65V!U17!4!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!-1.65V!U17!9!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!+1.65V!U17!7!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!-1.65V!U17!12!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!+1.65V!U17!14!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!-1.65V!U17!19!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!+1.65V!U17!17!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!EN_56_SEL!U17!1!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!CH_EN_5_SEL!U17!10!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!HP_BYPASS_EN_5_SEL!U17!11!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!SEL3_PR_SEL!U17!20!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!+5V!U17!16!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!-5V!U17!5!@fscvmotherboardv2.schematic1(sch_1):ins400732@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F24!!!!!!
+S!CH_OUT_A!U18!3!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_OUT_B!U18!8!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_OUT_C!U18!13!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_OUT_D!U18!18!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!GND!U18!15!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!GND!U18!6!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_OUTPUT_1!U18!2!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_OUTPUT_5!U18!4!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_OUTPUT_2!U18!9!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_OUTPUT_6!U18!7!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_OUTPUT_4!U18!12!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_OUTPUT_8!U18!14!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_OUTPUT_3!U18!19!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_OUTPUT_7!U18!17!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_A_SEL!U18!1!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_B_SEL!U18!10!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_C_SEL!U18!11!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!CH_D_SEL!U18!20!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!+5V!U18!16!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!-5V!U18!5!@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F23!!!!!!
+S!IREF_EN_78!U19!3!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!IREF_EN_12!U19!8!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!IREF_TEST_12!U19!13!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!VDD_78!U19!18!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!GND!U19!15!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!GND!U19!6!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!-1.65V!U19!2!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!+1.65V!U19!4!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!-1.65V!U19!9!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!+1.65V!U19!7!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!-1.65V!U19!12!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!+1.65V!U19!14!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!-1.65V!U19!19!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!+1.65V!U19!17!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!IREF_EN_78_SEL!U19!1!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!IREF_EN_12_SEL!U19!10!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!IREF_TEST_12_SEL!U19!11!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!EN_78_SEL!U19!20!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!+5V!U19!16!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!-5V!U19!5!@fscvmotherboardv2.schematic1(sch_1):ins402518@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F22!!!!!!
+S!SENSOR_A!U20!3!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!SENSOR_B!U20!8!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!SENSOR_D!U20!13!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!SENSOR_C!U20!18!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!GND!U20!15!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!GND!U20!6!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!SENSOR_1!U20!2!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!SENSOR_5!U20!4!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!SENSOR_2!U20!9!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!SENSOR_6!U20!7!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!SENSOR_4!U20!12!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!SENSOR_8!U20!14!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!SENSOR_3!U20!19!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!SENSOR_7!U20!17!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!CH_A_SEL!U20!1!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!CH_B_SEL!U20!10!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!CH_C_SEL!U20!11!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!CH_D_SEL!U20!20!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!+5V!U20!16!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!-5V!U20!5!@fscvmotherboardv2.schematic1(sch_1):ins403616@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F21!!!!!!
+S!IREF_TEST_D!U21!3!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!VDD_D!U21!8!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!IREF_EN_D!U21!13!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!COND_EN_D!U21!18!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!GND!U21!15!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!GND!U21!6!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!-1.65V!U21!2!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!+1.65V!U21!4!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!-1.65V!U21!9!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!+1.65V!U21!7!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!-1.65V!U21!12!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!+1.65V!U21!14!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!-1.65V!U21!19!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!+1.65V!U21!17!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!IREF_TEST_D_SEL!U21!1!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!EN_D_SEL!U21!10!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!IREF_EN_D_SEL!U21!11!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!COND_EN_D_SEL!U21!20!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!+5V!U21!16!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!-5V!U21!5!@fscvmotherboardv2.schematic1(sch_1):ins403039@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F20!!!!!!
+S!T_VRPS_AB!U22!3!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!VRPS_AB!U22!8!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!T_VRPS_AB_C!U22!13!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!T_VRPS_AB_M!U22!18!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!GND!U22!15!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!GND!U22!6!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!T_VRPS_AB_M!U22!2!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!T_VRPS_AB_C!U22!4!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!VRPS_12!U22!9!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!VRPS_56!U22!7!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!T_VRPS_C_12!U22!12!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!T_VRPS_C_56!U22!14!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!T_VRPS_M_12!U22!19!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!T_VRPS_M_56!U22!17!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!CH_AB_COND_SEL!U22!1!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!CH_AB_SEL!U22!10!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!CH_AB_SEL!U22!11!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!CH_AB_SEL!U22!20!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!+5V!U22!16!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!-5V!U22!5!@fscvmotherboardv2.schematic1(sch_1):ins405202@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F19!!!!!!
+S!T_VRPS_CD!U23!3!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!VRPS_CD!U23!8!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!T_VRPS_CD_C!U23!13!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!T_VRPS_CD_M!U23!18!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!GND!U23!15!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!GND!U23!6!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!T_VRPS_CD_M!U23!2!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!T_VRPS_CD_C!U23!4!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!VRPS_34!U23!9!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!VRPS_78!U23!7!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!T_VRPS_C_34!U23!12!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!T_VRPS_C_78!U23!14!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!T_VRPS_M_34!U23!19!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!T_VRPS_M_78!U23!17!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!CH_CD_COND_SEL!U23!1!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!CH_CD_SEL!U23!10!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!CH_CD_SEL!U23!11!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!CH_CD_SEL!U23!20!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!+5V!U23!16!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!-5V!U23!5!@fscvmotherboardv2.schematic1(sch_1):ins404213@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F18!!!!!!
+S!SEL2_PR!U24!3!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!SEL1_PR!U24!8!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!IREF_SWITCH_PR!U24!13!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!CH_EN_4!U24!18!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!GND!U24!15!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!GND!U24!6!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!-1.65V!U24!2!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!+1.65V!U24!4!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!-1.65V!U24!9!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!+1.65V!U24!7!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!-1.65V!U24!12!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!+1.65V!U24!14!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!-1.65V!U24!19!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!+1.65V!U24!17!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!SEL2_PR_SEL!U24!1!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!SEL1_PR_SEL!U24!10!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!IREF_SWITCH_PR_SEL!U24!11!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!CH_EN_4_SEL!U24!20!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!+5V!U24!16!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!-5V!U24!5!@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F17!!!!!!
+S!CH_EN_3!U9!3!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!VDD_34!U9!8!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!IREF_EN_34!U9!13!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!IREF_TEST_34!U9!18!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!GND!U9!15!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!GND!U9!6!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!-1.65V!U9!2!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!+1.65V!U9!4!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!-1.65V!U9!9!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!+1.65V!U9!7!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!-1.65V!U9!12!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!+1.65V!U9!14!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!-1.65V!U9!19!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!+1.65V!U9!17!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!CH_EN_3_SEL!U9!1!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!EN_34_SEL!U9!10!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!IREF_EN_34_SEL!U9!11!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!IREF_TEST_34_SEL!U9!20!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!+5V!U9!16!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!-5V!U9!5!@fscvmotherboardv2.schematic1(sch_1):ins390618@fscvmotherboardv2_libraries.\tmux6234pwr.normal\(sch_1)!TMUX6234PWR_TSSOP20_PW_TEX_TMUX6234PWR!!!F16!!!!!!
+S!5V_UNREGULATED!U3!3!@fscvmotherboardv2.schematic1(sch_1):ins447040@fscvmotherboardv2_libraries.\tps78401qdbvrq1.normal\(sch_1)!TPS78401QDBVRQ1_DBV0005A_IPC_A_TPS784-Q1DBV!!!F12!!!!!!
+S!GND!U3!2!@fscvmotherboardv2.schematic1(sch_1):ins447040@fscvmotherboardv2_libraries.\tps78401qdbvrq1.normal\(sch_1)!TPS78401QDBVRQ1_DBV0005A_IPC_A_TPS784-Q1DBV!!!F12!!!!!!
+S!5V_UNREGULATED!U3!1!@fscvmotherboardv2.schematic1(sch_1):ins447040@fscvmotherboardv2_libraries.\tps78401qdbvrq1.normal\(sch_1)!TPS78401QDBVRQ1_DBV0005A_IPC_A_TPS784-Q1DBV!!!F12!!!!!!
+S!!U3!4!@fscvmotherboardv2.schematic1(sch_1):ins447040@fscvmotherboardv2_libraries.\tps78401qdbvrq1.normal\(sch_1)!TPS78401QDBVRQ1_DBV0005A_IPC_A_TPS784-Q1DBV!!!F12!!!!!!
+S!+5V!U3!5!@fscvmotherboardv2.schematic1(sch_1):ins447040@fscvmotherboardv2_libraries.\tps78401qdbvrq1.normal\(sch_1)!TPS78401QDBVRQ1_DBV0005A_IPC_A_TPS784-Q1DBV!!!F12!!!!!!
+S!5V_UNREGULATED!U7!3!@fscvmotherboardv2.schematic1(sch_1):ins381176@fscvmotherboardv2_libraries.\tps78401qdbvrq1.normal\(sch_1)!TPS78401QDBVRQ1_DBV0005A_IPC_A_TPS784-Q1DBV!!!F11!!!!!!
+S!GND!U7!2!@fscvmotherboardv2.schematic1(sch_1):ins381176@fscvmotherboardv2_libraries.\tps78401qdbvrq1.normal\(sch_1)!TPS78401QDBVRQ1_DBV0005A_IPC_A_TPS784-Q1DBV!!!F11!!!!!!
+S!5V_UNREGULATED!U7!1!@fscvmotherboardv2.schematic1(sch_1):ins381176@fscvmotherboardv2_libraries.\tps78401qdbvrq1.normal\(sch_1)!TPS78401QDBVRQ1_DBV0005A_IPC_A_TPS784-Q1DBV!!!F11!!!!!!
+S!N381395!U7!4!@fscvmotherboardv2.schematic1(sch_1):ins381176@fscvmotherboardv2_libraries.\tps78401qdbvrq1.normal\(sch_1)!TPS78401QDBVRQ1_DBV0005A_IPC_A_TPS784-Q1DBV!!!F11!!!!!!
+S!+1.65V!U7!5!@fscvmotherboardv2.schematic1(sch_1):ins381176@fscvmotherboardv2_libraries.\tps78401qdbvrq1.normal\(sch_1)!TPS78401QDBVRQ1_DBV0005A_IPC_A_TPS784-Q1DBV!!!F11!!!!!!
+S!INT1!U4!1!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!RESET1!U4!3!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!GND!U4!21!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!GND!U4!2!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!GND!U4!12!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!CH_EN_D_SEL!U4!4!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!CH_EN_8_SEL!U4!5!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!HP_BYPASS_EN_8_SEL!U4!6!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!COND_EN_8_SEL!U4!7!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!COND_EN_7_SEL!U4!8!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!HP_BYPASS_EN_7_SEL!U4!9!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!CH_EN_7_SEL!U4!10!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!EN_12_SEL!U4!11!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!HP_BYPASS_EN_D_SEL!U4!13!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!IREF_TEST_D_SEL!U4!14!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!EN_D_SEL!U4!15!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!IREF_EN_D_SEL!U4!16!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!COND_EN_D_SEL!U4!17!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!IREF_EN_56_SEL!U4!18!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!IREF_TEST_56_SEL!U4!19!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!T_VRPS_D_SEL!U4!20!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!SCL!U4!22!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!SDA!U4!23!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!3.3V!U4!24!@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F10!!!!!!
+S!INT2!U6!1!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!RESET2!U6!3!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!GND!U6!21!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!3.3V!U6!2!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!GND!U6!12!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!CH_EN_4_SEL!U6!4!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!IREF_SWITCH_PR_SEL!U6!5!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!SEL1_PR_SEL!U6!6!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!SEL2_PR_SEL!U6!7!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!SEL3_PR_SEL!U6!8!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!HP_BYPASS_EN_5_SEL!U6!9!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!CH_EN_5_SEL!U6!10!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!EN_56_SEL!U6!11!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!IREF_TEST_34_SEL!U6!13!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!IREF_EN_34_SEL!U6!14!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!EN_34_SEL!U6!15!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!CH_EN_3_SEL!U6!16!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!HP_BYPASS_EN_3_SEL!U6!17!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!COND_EN_3_SEL!U6!18!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!COND_EN_4_SEL!U6!19!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!HP_BYPASS_EN_4_SEL!U6!20!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!SCL!U6!22!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!SDA!U6!23!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!3.3V!U6!24!@fscvmotherboardv2.schematic1(sch_1):ins387978@fscvmotherboardv2_libraries.\tca9539pwr.normal\(sch_1)!TCA9539PWR_TCAL9539PW24_TCA9539!!!F9!!!!!!
+S!N380998!U5!3!@fscvmotherboardv2.schematic1(sch_1):ins380713@fscvmotherboardv2_libraries.\ltc1983es6_5.normal\(chips)!LTC1983ES6_5_SOT95P280X100-6N_LTC1983!!!F8!!!!!!
+S!N381018!U5!4!@fscvmotherboardv2.schematic1(sch_1):ins380713@fscvmotherboardv2_libraries.\ltc1983es6_5.normal\(chips)!LTC1983ES6_5_SOT95P280X100-6N_LTC1983!!!F8!!!!!!
+S!GND!U5!5!@fscvmotherboardv2.schematic1(sch_1):ins380713@fscvmotherboardv2_libraries.\ltc1983es6_5.normal\(chips)!LTC1983ES6_5_SOT95P280X100-6N_LTC1983!!!F8!!!!!!
+S!5V_UNREGULATED!U5!6!@fscvmotherboardv2.schematic1(sch_1):ins380713@fscvmotherboardv2_libraries.\ltc1983es6_5.normal\(chips)!LTC1983ES6_5_SOT95P280X100-6N_LTC1983!!!F8!!!!!!
+S!5V_UNREGULATED!U5!1!@fscvmotherboardv2.schematic1(sch_1):ins380713@fscvmotherboardv2_libraries.\ltc1983es6_5.normal\(chips)!LTC1983ES6_5_SOT95P280X100-6N_LTC1983!!!F8!!!!!!
+S!-5V!U5!2!@fscvmotherboardv2.schematic1(sch_1):ins380713@fscvmotherboardv2_libraries.\ltc1983es6_5.normal\(chips)!LTC1983ES6_5_SOT95P280X100-6N_LTC1983!!!F8!!!!!!
+S!-5V!U8!3!@fscvmotherboardv2.schematic1(sch_1):ins381227@fscvmotherboardv2_libraries.\max1735euk25t.normal\(sch_1)!MAX1735EUK25T_21-0057F_MXM_MAX1735!!!F7!!!!!!
+S!GND!U8!1!@fscvmotherboardv2.schematic1(sch_1):ins381227@fscvmotherboardv2_libraries.\max1735euk25t.normal\(sch_1)!MAX1735EUK25T_21-0057F_MXM_MAX1735!!!F7!!!!!!
+S!-5V!U8!2!@fscvmotherboardv2.schematic1(sch_1):ins381227@fscvmotherboardv2_libraries.\max1735euk25t.normal\(sch_1)!MAX1735EUK25T_21-0057F_MXM_MAX1735!!!F7!!!!!!
+S!-1.65V!U8!5!@fscvmotherboardv2.schematic1(sch_1):ins381227@fscvmotherboardv2_libraries.\max1735euk25t.normal\(sch_1)!MAX1735EUK25T_21-0057F_MXM_MAX1735!!!F7!!!!!!
+S!N382215!U8!4!@fscvmotherboardv2.schematic1(sch_1):ins381227@fscvmotherboardv2_libraries.\max1735euk25t.normal\(sch_1)!MAX1735EUK25T_21-0057F_MXM_MAX1735!!!F7!!!!!!
+S!IREF_REXT_12!VR1!1!@fscvmotherboardv2.schematic1(sch_1):ins413843@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F6!!!!!!
+S!-1.65V!VR1!3!@fscvmotherboardv2.schematic1(sch_1):ins413843@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F6!!!!!!
+S!IREF_REXT_12!VR1!2!@fscvmotherboardv2.schematic1(sch_1):ins413843@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F6!!!!!!
+S!IREF_REXT_34!VR2!1!@fscvmotherboardv2.schematic1(sch_1):ins414366@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F5!!!!!!
+S!-1.65V!VR2!3!@fscvmotherboardv2.schematic1(sch_1):ins414366@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F5!!!!!!
+S!IREF_REXT_34!VR2!2!@fscvmotherboardv2.schematic1(sch_1):ins414366@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F5!!!!!!
+S!IREF_REXT_56!VR3!1!@fscvmotherboardv2.schematic1(sch_1):ins414258@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F4!!!!!!
+S!-1.65V!VR3!3!@fscvmotherboardv2.schematic1(sch_1):ins414258@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F4!!!!!!
+S!IREF_REXT_56!VR3!2!@fscvmotherboardv2.schematic1(sch_1):ins414258@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F4!!!!!!
+S!REXT_PR!VR4!1!@fscvmotherboardv2.schematic1(sch_1):ins416087@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F3!!!!!!
+S!-1.65V!VR4!3!@fscvmotherboardv2.schematic1(sch_1):ins416087@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F3!!!!!!
+S!REXT_PR!VR4!2!@fscvmotherboardv2.schematic1(sch_1):ins416087@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F3!!!!!!
+S!IREF_REXT_78!VR5!1!@fscvmotherboardv2.schematic1(sch_1):ins413881@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F2!!!!!!
+S!-1.65V!VR5!3!@fscvmotherboardv2.schematic1(sch_1):ins413881@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F2!!!!!!
+S!IREF_REXT_78!VR5!2!@fscvmotherboardv2.schematic1(sch_1):ins413881@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F2!!!!!!
+S!IREF_REXT_D!VR6!1!@fscvmotherboardv2.schematic1(sch_1):ins413921@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F1!!!!!!
+S!-1.65V!VR6!3!@fscvmotherboardv2.schematic1(sch_1):ins413921@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F1!!!!!!
+S!IREF_REXT_D!VR6!2!@fscvmotherboardv2.schematic1(sch_1):ins413921@fscvmotherboardv2_libraries.\res_3314j-1-754e.normal\(chips)!RES_3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E!!!F1!!!!!!
+S!XOUT!X1!1!@fscvmotherboardv2.schematic1(sch_1):ins1885@fscvmotherboardv2_libraries.\crystal.normal\(chips)!CRYSTAL_XTAL_KA-A3_EPS_CRYSTAL!!!F0!!!!!!
+S!XIN!X1!2!@fscvmotherboardv2.schematic1(sch_1):ins1885@fscvmotherboardv2_libraries.\crystal.normal\(chips)!CRYSTAL_XTAL_KA-A3_EPS_CRYSTAL!!!F0!!!!!!

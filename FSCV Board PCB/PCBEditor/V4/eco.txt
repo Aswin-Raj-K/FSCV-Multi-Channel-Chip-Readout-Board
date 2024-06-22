@@ -1,0 +1,86 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/FSCV Board V2/PCBEditor/V4/fscvmotherboardv2.brd            |
+|                                                    Thu Feb 29 22:00:46 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N392059      pins MOVED FROM this net (to net name listed on right)
+                                 U9.15            5.6800 -52.474
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N392503      pins MOVED FROM this net (to net name listed on right)
+                                 U12.15          -13.580 -14.250
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N393110      pins MOVED FROM this net (to net name listed on right)
+                                 U10.15           5.6800 -33.362
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N393288      pins MOVED FROM this net (to net name listed on right)
+                                 U13.15          -32.840 -14.250
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N394124      pins MOVED FROM this net (to net name listed on right)
+                                 U11.15          -13.580 -52.474
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N394302      pins MOVED FROM this net (to net name listed on right)
+                                 U14.15          -32.840 -33.362
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N398589      pins MOVED FROM this net (to net name listed on right)
+                                 U15.15          -52.100 -33.362
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N398767      pins MOVED FROM this net (to net name listed on right)
+                                 U16.15          -52.100 -14.250
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N399845      pins MOVED FROM this net (to net name listed on right)
+                                 U18.15          -52.140 31.2500
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N400894      pins MOVED FROM this net (to net name listed on right)
+                                 U17.15          -52.100 -52.474
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N402680      pins MOVED FROM this net (to net name listed on right)
+                                 U19.15           5.6800 10.7500
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N403778      pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/FSCV Board V2/PCBEditor/V4/fscvmotherboardv2.brd            |
+|                                                    Thu Feb 29 22:00:46 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U20.15          -68.765 31.0400
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N404375      pins MOVED FROM this net (to net name listed on right)
+                                 U23.15          -4.8950 35.6350
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N405364      pins MOVED FROM this net (to net name listed on right)
+                                 U22.15          -22.675 35.6350
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N417493      pins MOVED FROM this net (to net name listed on right)
+                                 U24.15          -32.840 -52.474
+                                                                            GND
+|------------------------------------------------------------------------------|
+|       Nets changed          :      15                                        |
+|                                                                              |
+|   Total ECO changes reported:      15                                        |
+|------------------------------------------------------------------------------|

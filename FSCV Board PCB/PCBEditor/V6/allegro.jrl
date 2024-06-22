@@ -1,0 +1,34 @@
+\t (00:00:03) allegro 23.1 S004 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sun Jun  2 22:38:46 2024
+\t (00:00:03)         Host=ARK User=kaswi Pid=12796 CPUs=20
+\t (00:00:03) CmdLine= D:\Softwares\Orcad\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged fscvmotherboardv2
+\d (00:00:05) Design opened: D:/Projects/PCB/FSCV Board V2/PCBEditor/V6/fscvmotherboardv2.brd
+\i (00:00:06) trapsize 1264
+\i (00:00:06) trapsize 1304
+\i (00:00:06) trapsize 1264
+\i (00:00:06) trapsize 1045
+\i (00:00:06) trapsize 1282
+\i (00:00:06) generaledit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -39.9635 35.1185
+\i (00:00:07) trapsize 2563
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -40.0147 34.9648
+\i (00:00:07) trapsize 5127
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -40.3223 34.8623
+\i (00:00:07) trapsize 10254
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -40.5274 34.6571
+\i (00:00:07) trapsize 20507
+\i (00:00:11) new 
+\i (00:01:05) newdrawfillin "chip.dra" "Package Symbol"
+\t (00:01:05)     Journal end - Sun Jun  2 22:39:48 2024

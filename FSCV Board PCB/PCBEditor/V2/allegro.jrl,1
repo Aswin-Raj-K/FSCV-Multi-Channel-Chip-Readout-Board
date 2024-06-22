@@ -1,0 +1,20 @@
+\t (00:00:01) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Feb 27 16:05:19 2024
+\t (00:00:01)         Host=ARK User=kaswi Pid=30224 CPUs=20
+\t (00:00:01) CmdLine= d:\softwares\orcad\tools\bin\allegro.exe D:\Projects\PCB\FSCV Board V2\PCBEditor\V2\fscvmotherboardv3.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged fscvmotherboardv3
+\d (00:00:04) Design opened: D:/Projects/PCB/FSCV Board V2/PCBEditor/V2/fscvmotherboardv3.brd
+\i (00:00:04) trapsize 11827
+\i (00:00:04) trapsize 12199
+\i (00:00:04) trapsize 11827
+\i (00:00:05) trapsize 11994
+\i (00:00:05) trapsize 11994
+\i (00:00:05) etchedit 
+\i (00:00:09) save_as 
+\i (00:00:17) fillin "fscvmotherboardv2.brd"
+\i (00:00:17) etchedit 
+\i (00:00:19) exit 
+\t (00:00:19)     Journal end - Tue Feb 27 16:05:37 2024

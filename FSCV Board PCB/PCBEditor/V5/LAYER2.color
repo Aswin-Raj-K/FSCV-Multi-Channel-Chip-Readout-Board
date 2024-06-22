@@ -1,0 +1,8 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "DRC ERROR CLASS/POWER"
+color -vis "ETCH/POWER"
+color -vis "PIN/POWER"
+color -vis "VIA CLASS/POWER"

@@ -148,13 +148,26 @@
   },
   "active": "a580049dc6d295cb",
   "lastOpenFiles": [
+    "Python GUI/UART.py",
+    "Python GUI/main.py",
+    "Python GUI/FSCVMotherboard.py",
+    "Code Composer/With GUI/UARTController.h",
+    "Code Composer/With GUI/UARTController.c",
+    "Code Composer/With GUI/main.c",
+    "Code Composer/With GUI/I2CController.h",
+    "Code Composer/With GUI/I2CController.c",
+    "Code Composer/Without GUI/main.c",
+    "Code Composer/Without GUI/I2CController.h",
+    "Code Composer/Without GUI/I2CController.c",
+    "FSCV Board PCB/Figures/BoardLayout.png",
+    "FSCV Board PCB/Capture/FSCVMOTHERBOARDV2.png",
+    "FSCV Board V2/Figures/BoardLayout.png",
+    "FSCV Board V2/Capture/FSCVMOTHERBOARDV2.png",
     "Figures/ioexpander.png",
     "Figures/fscvgui.png",
     "Figures/fscvit.md",
     "README.md",
     "Figures/fscvit2.png",
-    "Figures/fscvit2_b.png",
-    "Figures",
-    "New folder"
+    "Figures/fscvit2_b.png"
   ]
 }

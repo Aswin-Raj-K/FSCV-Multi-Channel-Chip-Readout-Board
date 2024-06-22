@@ -1,0 +1,18 @@
+\t (00:00:06) allegro 23.1 S004 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Sun Jun  2 22:38:18 2024
+\t (00:00:06)         Host=ARK User=kaswi Pid=27128 CPUs=20
+\t (00:00:06) CmdLine= D:\Softwares\Orcad\tools\bin\allegro.exe
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\e (00:00:07) Retrieval of 'OrCAD_PCB_Designer' license failed: 'ERROR (LMF-13005): License call failed for feature OrCAD_PCB_Editor. The bundle name is defined as SPB. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-5, 234, 0): No such feature exists.
+
+'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:12) fillin confirm
+\i (00:00:13) fillin OrCAD_X_Professional_Layout
+\e (00:00:13) Retrieval of 'OrCAD_X_Professional_Layout' license failed: 'ERROR (LMF-13005): License call failed for feature OrCAD_PCB_Designer. The bundle name is defined as SPB. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-5, 234, 0): No such feature exists.
+
+'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:26) fillin confirm
+\t (00:00:27)     Journal end - Sun Jun  2 22:38:39 2024

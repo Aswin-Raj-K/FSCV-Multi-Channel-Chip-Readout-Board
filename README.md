@@ -1,7 +1,6 @@
 # FSCV-Multi-Channel-Chip-Readout-Board-Repository
 
-This repository contains the PCB design files for an IC testing board designed for comprehensive assessment of Integrated Circuits (ICs).
-
+This repository contains the PCB design files, C code for configuring the MCU, and Python code for the GUI.
 ## Board Overview
 
 - **FSCV Channels**: 8

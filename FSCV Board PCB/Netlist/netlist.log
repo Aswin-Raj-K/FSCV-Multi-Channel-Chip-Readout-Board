@@ -1,0 +1,13 @@
+{ Using PSTWRITER 23.1.0 d001Mar-09-2024 at 16:15:27 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.17" ignored for U4: SCHEMATIC1, Regulator_IOExpander (248.92, 88.90). Connecting pin to net "COND_EN_D_SEL".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\Projects\PCB\FSCV Board V2\Netlist\pstchip.dat
+
+Loading... D:\Projects\PCB\FSCV Board V2\Netlist\pstchip.dat
+
+Loading... D:\Projects\PCB\FSCV Board V2\Netlist\pstxprt.dat
+
+Loading... D:\Projects\PCB\FSCV Board V2\Netlist\pstxnet.dat
+packaging the design view...

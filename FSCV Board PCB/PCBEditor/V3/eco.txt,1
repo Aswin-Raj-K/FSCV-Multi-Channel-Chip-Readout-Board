@@ -1,0 +1,32 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/FSCV Board V2/PCBEditor/V3/fscvmotherboardv2.brd            |
+|                                                    Thu Feb 29 14:40:22 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  IREF_EN_56_SEL pins MOVED FROM this net (to net name listed on right)
+                                 U4.19           -76.479  6.0250
+                                                               IREF_TEST_56_SEL
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IREF_TEST_56_SEL pins MOVED FROM this net (to net name listed on right)
+                                 U4.18           -76.479  6.6750
+                                                                   T_VRPS_D_SEL
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N470462      pins MOVED FROM this net (to net name listed on right)
+                                 TP2.TP          -93.000 40.5000
+                                                                 IREF_EN_56_SEL
+                                 U4.20           -76.479  5.3750
+                                                                 IREF_EN_56_SEL
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  T_VRPS_D_SEL pins DELETED FROM this net (pin now not on any net)
+                                 U4.17           -76.479  7.3250
+|------------------------------------------------------------------------------|
+|       Nets changed          :       5                                        |
+|                                                                              |
+|   Total ECO changes reported:       5                                        |
+|------------------------------------------------------------------------------|

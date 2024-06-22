@@ -1,0 +1,291 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/FSCV Board V2/PCBEditor/V1/fscvmotherboardv2.brd            |
+|                                                    Mon Feb 26 19:18:36 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +1.65V       pins DELETED FROM this net (pin now not on any net)
+                                 U10.14           6.5350 -35.015
+                                 U10.17           6.5350 -33.065
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +5V          pins ADDED TO this existing net (pins not previously on any net)
+                                 C54.1                          
+                                 U26.1                          
+                                 U26.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -1.65V       pins DELETED FROM this net (pin now not on any net)
+                                 U10.12           6.5350 -36.315
+                                 U10.19           6.5350 -31.765
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -5V          pins ADDED TO this existing net (pins not previously on any net)
+                                 C55.2                          
+                                 U26.4                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CH_EN_1      pins MOVED FROM this net (to net name listed on right)
+                                 U13.18          -32.200  9.4950
+                                                                        CH_EN_6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CH_EN_3      pins MOVED FROM this net (to net name listed on right)
+                                 U17.13          23.0450 -47.095
+                                                                 HP_BYPASS_EN_5
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U9.3            -25.470 -40.445
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CH_EN_4      pins MOVED FROM this net (to net name listed on right)
+                                 U10.8            0.6350 -35.665
+                                                                     IREF_EN_56
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CH_EN_5      pins MOVED FROM this net (to net name listed on right)
+                                 U10.3            0.6350 -32.415
+                                                                   IREF_TEST_56
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CH_EN_6      pins MOVED FROM this net (to net name listed on right)
+                                 U13.8           -38.100  6.2450
+                                                                 HP_BYPASS_EN_6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CH_EN_7      pins MOVED FROM this net (to net name listed on right)
+                                 U19.13           5.9000 -1.3750
+                                                                         VDD_78
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CH_EN_8      pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/FSCV Board V2/PCBEditor/V1/fscvmotherboardv2.brd            |
+|                                                    Mon Feb 26 19:18:36 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U15.18          -52.520 -15.905
+                                                                      COND_EN_8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CH_EN_D      pins MOVED FROM this net (to net name listed on right)
+                                 U14.3           -40.640 -23.525
+                                                                 HP_BYPASS_EN_8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COND_EN_1    pins MOVED FROM this net (to net name listed on right)
+                                 U13.3           -38.100  9.4950
+                                                                      COND_EN_6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COND_EN_2    pins MOVED FROM this net (to net name listed on right)
+                                 U16.8           -58.000  9.4500
+                                                                      COND_EN_5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COND_EN_3    pins MOVED FROM this net (to net name listed on right)
+                                 U17.3           17.1450 -43.845
+                                                                         VDD_56
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U11.13          -40.720 -46.345
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COND_EN_4    pins DELETED FROM this net (pin now not on any net)
+                                 U10.18           6.5350 -32.415
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U11.8           -40.720 -40.445
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COND_EN_6    pins MOVED FROM this net (to net name listed on right)
+                                 U16.13          -52.100  9.4500
+                                                                 HP_BYPASS_EN_2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COND_EN_7    pins MOVED FROM this net (to net name listed on right)
+                                 U15.3           -58.420 -15.905
+                                                                        CH_EN_7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COND_EN_8    pins MOVED FROM this net (to net name listed on right)
+                                 U15.8           -58.420 -19.155
+                                                                 HP_BYPASS_EN_7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COND_EN_D    pins MOVED FROM this net (to net name listed on right)
+                                 U14.18          -34.740 -23.525
+                                                                 HP_BYPASS_EN_D
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/FSCV Board V2/PCBEditor/V1/fscvmotherboardv2.brd            |
+|                                                    Mon Feb 26 19:18:36 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C54.2                          
+                                 C55.1                          
+                                 U26.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HP_BYPASS_EN_1 pins MOVED FROM this net (to net name listed on right)
+                                 U13.13          -32.200  6.2450
+                                                                      COND_EN_1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HP_BYPASS_EN_3 pins MOVED FROM this net (to net name listed on right)
+                                 U17.8           17.1450 -47.095
+                                                                        CH_EN_5
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U11.18          -37.470 -46.345
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HP_BYPASS_EN_4 pins DELETED FROM this net (pin now not on any net)
+                                 U10.13           6.5350 -35.665
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U11.3           -37.470 -40.445
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HP_BYPASS_EN_6 pins MOVED FROM this net (to net name listed on right)
+                                 U16.18          -52.100 12.7000
+                                                                      COND_EN_2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HP_BYPASS_EN_7 pins MOVED FROM this net (to net name listed on right)
+                                 U19.18           5.9000  1.8750
+                                                                   IREF_TEST_12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HP_BYPASS_EN_8 pins MOVED FROM this net (to net name listed on right)
+                                 U15.13          -52.520 -19.155
+                                                                      COND_EN_7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IREF_EN_12   pins MOVED FROM this net (to net name listed on right)
+                                 U12.18          -13.785  5.6850
+                                                                         VDD_12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IREF_EN_34   pins ADDED TO this existing net (pins not previously on any net)
+                                 U9.13           -28.720 -46.345
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IREF_EN_56   pins MOVED FROM this net (to net name listed on right)
+                                 U21.13          -15.055 -30.585
+                                                                      IREF_EN_D
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IREF_EN_78   pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/FSCV Board V2/PCBEditor/V1/fscvmotherboardv2.brd            |
+|                                                    Mon Feb 26 19:18:36 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U12.13          -13.785  2.4350
+                                                                   IREF_TEST_78
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IREF_EN_D    pins MOVED FROM this net (to net name listed on right)
+                                 U14.13          -34.740 -26.775
+                                                                        CH_EN_D
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IREF_TEST_12 pins MOVED FROM this net (to net name listed on right)
+                                 U19.8            0.0000 -1.3750
+                                                                     IREF_EN_12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IREF_TEST_34 pins ADDED TO this existing net (pins not previously on any net)
+                                 U9.18           -25.470 -46.345
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IREF_TEST_78 pins MOVED FROM this net (to net name listed on right)
+                                 U12.3           -19.685  5.6850
+                                                                 HP_BYPASS_EN_1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TIA_C_OUT_BUF pins MOVED FROM this net (to net name listed on right)
+                                 U21.3           -20.955 -27.335
+                                                                    IREF_TEST_D
+                                 U21.17          -15.055 -27.985
+                                                                         +1.65V
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U26.5                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TIA_M_OUT_BUF pins MOVED FROM this net (to net name listed on right)
+                                 U21.8           -20.955 -30.585
+                                                                          VDD_D
+                                 U21.19          -15.055 -26.685
+                                                                         -1.65V
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U26.7                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TIA_OUT_BUF  pins ADDED TO this existing net (pins not previously on any net)
+                                 U26.6                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  T_VRPS_D_SEL pins ADDED TO this existing net (pins not previously on any net)
+                                 U26.8                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_12       pins MOVED FROM this net (to net name listed on right)
+                                 U12.8           -19.685  2.4350
+                                                                        CH_EN_1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/FSCV Board V2/PCBEditor/V1/fscvmotherboardv2.brd            |
+|                                                    Mon Feb 26 19:18:36 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  VDD_34       pins MOVED FROM this net (to net name listed on right)
+                                 U17.18          23.0450 -43.845
+                                                                        CH_EN_4
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U9.8            -28.720 -40.445
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_56       pins MOVED FROM this net (to net name listed on right)
+                                 U21.18          -15.055 -27.335
+                                                                      COND_EN_D
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_78       pins MOVED FROM this net (to net name listed on right)
+                                 U19.3            0.0000  1.8750
+                                                                     IREF_EN_78
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_D        pins MOVED FROM this net (to net name listed on right)
+                                 U14.8           -40.640 -26.775
+                                                                        CH_EN_8
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/FSCV Board V2/PCBEditor/V1/fscvmotherboardv2.brd            |
+|                                                    Mon Feb 26 19:18:36 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C54                 C_CAP0805_0.1U        
+ C55                 C_CAP0805_0.1U        
+ U26                 TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/FSCV Board V2/PCBEditor/V1/fscvmotherboardv2.brd            |
+|                                                    Mon Feb 26 19:18:36 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C54.2                          PRIM_FILE      .\pstchip.dat
+ C54.2                          XY             (2020,830)
+ C55.2                          PRIM_FILE      .\pstchip.dat
+ C55.2                          XY             (2020,880)
+ U26.4                          PRIM_FILE      .\pstchip.dat
+ U26.4                          XY             (1910,790)
+|------------------------------------------------------------------------------|
+|       Nets changed          :      61                                        |
+|       Components added      :       3                                        |
+|       Slot property added   :       6                                        |
+|                                                                              |
+|   Total ECO changes reported:      70                                        |
+|------------------------------------------------------------------------------|

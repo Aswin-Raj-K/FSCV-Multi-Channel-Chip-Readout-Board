@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TRIM_3314J-1-754E.dra                         )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Fri Feb 23 22:26:15 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Projects/PCB/FSCV Board V2/PCBEditor/Libraries
+    Name      = trim_3314j-1-754e.psm
+    User      = kaswi
+    Machine   = ARK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

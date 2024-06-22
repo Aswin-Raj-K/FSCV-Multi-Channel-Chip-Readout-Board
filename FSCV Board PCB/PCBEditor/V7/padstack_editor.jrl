@@ -1,0 +1,12 @@
+\t (00:00:00) padstack_editor 23.1 S002 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Mar 14 18:28:12 2024
+\t (00:00:00)         Host=ARK User=kaswi Pid=17952 CPUs=20
+\t (00:00:00) CmdLine= padstack_editor -mpssession kaswi -file C:/Users/kaswi/AppData/Local/Temp/#Taaaahm25900.tmp -pname C165_H110 -data C:/Users/kaswi/AppData/Local/Temp/#Taaaahp25900.tmp
+\t (00:00:00) 
+\d (00:00:01) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:00:01) QtSignal GuidedDesignLayersTab LayersTable cellDoubleClicked 0 "Regular Pad" 0 2
+\d (00:00:09) QtSignal GuidedDesignLayersTab PadDiameter editingFinished "1.6500"
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:12) QtSignal MainWindow UpdateToDesignExit triggered
+\t (00:00:12)     Journal end - Thu Mar 14 18:28:25 2024

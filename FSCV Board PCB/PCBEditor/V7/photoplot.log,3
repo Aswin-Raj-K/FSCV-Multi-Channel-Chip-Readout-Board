@@ -1,0 +1,585 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : fscvmotherboardv2.brd                         )
+(    Software Version : 23.1S002                                      )
+(    Date/Time        : Thu Mar 14 18:40:23 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < 13_SILKSCREEN_BOTTOM >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/13_SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-166.0000 116.9000)
+           ... using undefined line width of 0.1000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1000
+
+    WARNING: text composed 0 width line found at (-103.4350 30.8650)
+           ... using undefined line width of 0.1000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+
+     13_SILKSCREEN_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < 12_PASTEMASK_BOTTOM >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/12_PASTEMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     1.20500                                  DARK 
+  RECTANGLE  0.50000     x 1.35000      90.000 NO     DARK 
+  RECTANGLE  0.50000     x 1.65000      90.000 NO     DARK 
+  RECTANGLE  1.40410     x 0.35480       0.000 NO     DARK 
+  RECTANGLE  1.47000     x 1.02000       0.000 NO     DARK 
+  RECTANGLE  1.47000     x 1.02000      90.000 NO     DARK 
+  RECTANGLE  2.00000     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  2.00000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  2.80000     x 2.40000       0.000 NO     DARK 
+  PAD SHAPE  PS_R121_48_D250           180.000 YES    DARK 
+
+     12_PASTEMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < 11_SOLDERMASK_BOTTOM >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/11_SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     1.05000                                  DARK 
+  CIRCLE     1.30800                                  DARK 
+  CIRCLE     1.40010                                  DARK 
+  CIRCLE     1.51800                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  CIRCLE     1.70010                                  DARK 
+  CIRCLE     1.73000                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.05000                     0.000 NO     DARK 
+  SQUARE     1.30800                     0.000 NO     DARK 
+  SQUARE     1.57000                     0.000 NO     DARK 
+  SQUARE     1.65000                     0.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.55000      90.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.85000      90.000 NO     DARK 
+  RECTANGLE  1.40410     x 0.35480       0.000 NO     DARK 
+  RECTANGLE  1.67000     x 1.22000       0.000 NO     DARK 
+  RECTANGLE  1.67000     x 1.22000      90.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  2.20000     x 2.20000       0.000 NO     DARK 
+  RECTANGLE  2.80000     x 2.40000       0.000 NO     DARK 
+  PAD SHAPE  PS_R121_48_D250           180.000 YES    DARK 
+
+     11_SOLDERMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < 10_ASSEMBLY_BOTTOM >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/10_ASSEMBLY_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     10_ASSEMBLY_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < 9_CONDUCTOR_BOTTOM >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/9_CONDUCTOR_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.35000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.85000                                  DARK 
+  CIRCLE     1.30800                                  DARK 
+  CIRCLE     1.31800                                  DARK 
+  CIRCLE     1.40010                                  DARK 
+  CIRCLE     1.53000                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  CIRCLE     1.70010                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  CIRCLE     4.60000                                  DARK 
+  SQUARE     0.85000                     0.000 NO     DARK 
+  SQUARE     1.30800                     0.000 NO     DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  SQUARE     1.65000                     0.000 NO     DARK 
+  RECTANGLE  0.50000     x 1.35000      90.000 NO     DARK 
+  RECTANGLE  0.50000     x 1.65000      90.000 NO     DARK 
+  RECTANGLE  1.40410     x 0.35480       0.000 NO     DARK 
+  RECTANGLE  1.47000     x 1.02000       0.000 NO     DARK 
+  RECTANGLE  1.47000     x 1.02000      90.000 NO     DARK 
+  RECTANGLE  2.00000     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  2.00000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  2.80000     x 2.40000       0.000 NO     DARK 
+  PAD SHAPE  PS_R121_48_D250           180.000 YES    DARK 
+
+     9_CONDUCTOR_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < 8_CONDUCTOR_TRACE >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/8_CONDUCTOR_TRACE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12500                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.35000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.85000                                  DARK 
+  CIRCLE     1.30800                                  DARK 
+  CIRCLE     1.31800                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     1.40010                                  DARK 
+  CIRCLE     1.53000                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  CIRCLE     1.70010                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  CIRCLE     4.60000                                  DARK 
+  SQUARE     1.30800                     0.000 NO     DARK 
+
+     8_CONDUCTOR_TRACE created.
+
+
+================================================================
+     PROCESSING FILM < 7_GROUND_PLANE >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/7_GROUND_PLANE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.35000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.85000                                  DARK 
+  CIRCLE     1.30800                                  DARK 
+  CIRCLE     1.31800                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     1.40010                                  DARK 
+  CIRCLE     1.53000                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  CIRCLE     1.70010                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  CIRCLE     4.60000                                  DARK 
+  SQUARE     1.30800                     0.000 NO     DARK 
+
+     7_GROUND_PLANE created.
+
+
+================================================================
+     PROCESSING FILM < 6_CONDUCTOR_TOP >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/6_CONDUCTOR_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.35000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.85000                                  DARK 
+  CIRCLE     1.30800                                  DARK 
+  CIRCLE     1.31800                                  DARK 
+  CIRCLE     1.40010                                  DARK 
+  CIRCLE     1.53000                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  CIRCLE     1.70010                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  CIRCLE     4.60000                                  DARK 
+  SQUARE     0.85000                     0.000 NO     DARK 
+  SQUARE     1.30800                     0.000 NO     DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  SQUARE     1.65000                     0.000 NO     DARK 
+  SQUARE     2.28600                     0.000 NO     DARK 
+  RECTANGLE  0.92000     x 1.42000       0.000 NO     DARK 
+  RECTANGLE  0.92000     x 1.42000      90.000 NO     DARK 
+  RECTANGLE  0.97790     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  1.40410     x 0.27940      90.000 NO     DARK 
+  RECTANGLE  1.40410     x 0.35480       0.000 NO     DARK 
+  RECTANGLE  1.45490     x 0.55800       0.000 NO     DARK 
+  RECTANGLE  1.47000     x 1.02000       0.000 NO     DARK 
+  RECTANGLE  1.47000     x 1.02000      90.000 NO     DARK 
+  RECTANGLE  1.60020     x 1.41200       0.000 NO     DARK 
+  RECTANGLE  1.67640     x 0.35560       0.000 NO     DARK 
+  RECTANGLE  1.80520     x 0.61210       0.000 NO     DARK 
+  PAD SHAPE  PS_R124_55_D140             0.000 NO     DARK 
+
+     6_CONDUCTOR_TOP created.
+
+
+================================================================
+     PROCESSING FILM < 5_ASSEMBLY_TOP >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/5_ASSEMBLY_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     5_ASSEMBLY_TOP created.
+
+
+================================================================
+     PROCESSING FILM < 3_SOLDERMASK_TOP >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/3_SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     1.05000                                  DARK 
+  CIRCLE     1.30800                                  DARK 
+  CIRCLE     1.40010                                  DARK 
+  CIRCLE     1.51800                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  CIRCLE     1.70010                                  DARK 
+  CIRCLE     1.73000                                  DARK 
+  CIRCLE     1.80010                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.05000                     0.000 NO     DARK 
+  SQUARE     1.30800                     0.000 NO     DARK 
+  SQUARE     1.57000                     0.000 NO     DARK 
+  SQUARE     1.65000                     0.000 NO     DARK 
+  SQUARE     2.28600                     0.000 NO     DARK 
+  RECTANGLE  0.92000     x 1.42000       0.000 NO     DARK 
+  RECTANGLE  0.92000     x 1.42000      90.000 NO     DARK 
+  RECTANGLE  0.97790     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  1.40410     x 0.27940      90.000 NO     DARK 
+  RECTANGLE  1.40410     x 0.35480       0.000 NO     DARK 
+  RECTANGLE  1.45490     x 0.55800       0.000 NO     DARK 
+  RECTANGLE  1.60020     x 1.41200       0.000 NO     DARK 
+  RECTANGLE  1.67000     x 1.22000       0.000 NO     DARK 
+  RECTANGLE  1.67000     x 1.22000      90.000 NO     DARK 
+  RECTANGLE  1.67640     x 0.35560       0.000 NO     DARK 
+  RECTANGLE  1.80520     x 0.61210       0.000 NO     DARK 
+  PAD SHAPE  PS_R124_55_D140             0.000 NO     DARK 
+
+     3_SOLDERMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < 4_PASTEMASK_TOP >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/4_PASTEMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  SQUARE     2.28600                     0.000 NO     DARK 
+  RECTANGLE  0.92000     x 1.42000       0.000 NO     DARK 
+  RECTANGLE  0.92000     x 1.42000      90.000 NO     DARK 
+  RECTANGLE  0.97790     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  1.40410     x 0.27940      90.000 NO     DARK 
+  RECTANGLE  1.40410     x 0.35480       0.000 NO     DARK 
+  RECTANGLE  1.45490     x 0.55800       0.000 NO     DARK 
+  RECTANGLE  1.47000     x 1.02000       0.000 NO     DARK 
+  RECTANGLE  1.47000     x 1.02000      90.000 NO     DARK 
+  RECTANGLE  1.60020     x 1.41200       0.000 NO     DARK 
+  RECTANGLE  1.67640     x 0.35560       0.000 NO     DARK 
+  RECTANGLE  1.80520     x 0.61210       0.000 NO     DARK 
+  PAD SHAPE  PS_R124_55_D140             0.000 NO     DARK 
+
+     4_PASTEMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < 1_DRILL_AND_CROSS >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/1_DRILL_AND_CROSS.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     1_DRILL_AND_CROSS created.
+
+
+================================================================
+     PROCESSING FILM < 2_SILKSCREEN_TOP >
+     TO FILE < D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/Artwork/2_SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+
+     2_SILKSCREEN_TOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        13_SILKSCREEN_BOTTOM created with warnings
+        12_PASTEMASK_BOTTOM created.
+        11_SOLDERMASK_BOTTOM created.
+        10_ASSEMBLY_BOTTOM created.
+        9_CONDUCTOR_BOTTOM created.
+        8_CONDUCTOR_TRACE created.
+        7_GROUND_PLANE created.
+        6_CONDUCTOR_TOP created.
+        5_ASSEMBLY_TOP created.
+        3_SOLDERMASK_TOP created.
+        4_PASTEMASK_TOP created.
+        1_DRILL_AND_CROSS created.
+        2_SILKSCREEN_TOP created.
+
+ ARTWORK had warnings

@@ -1,0 +1,586 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [
+		{
+			"Name" : "+1.65V",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins383048@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "+5V",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins383008@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "-1.65V",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins383067@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "-5V",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins383027@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "3.3V",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins543651@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "C1",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins8883@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C10",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins380141@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C11",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins380835@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C12",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins380972@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "C13",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins381000@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C14",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins381621@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C15",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins381377@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "C16",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins382189@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C17",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins382350@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C2",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins8899@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C20",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins420253@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C21",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins420269@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C3",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins363834@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "C4",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins363850@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C40",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins419675@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C41",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins419580@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C48",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins422829@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C49",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins422845@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C5",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins364191@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C50",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins487976@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "C52",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins488500@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C53",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins488560@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C6",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins543773@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C7",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins543827@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C8",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins543801@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C9",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins380291@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "IREF_IBX_12",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins415300@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "IREF_IBX_34",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins415323@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "IREF_IBX_56",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins415356@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "IREF_IBX_78",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins415396@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "IREF_IBX_D",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins415434@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "J2",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins1836@fscvmotherboardv2_libraries.\\jtag_87831-1420.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "R1",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins364225@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R10",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins381361@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "R11",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins381405@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R12",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins382173@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "R13",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins382217@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R15",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins407799@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "10"
+		},
+		{
+			"Name" : "R16",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins414866@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "9"
+		},
+		{
+			"Name" : "R17",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins415057@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "8"
+		},
+		{
+			"Name" : "R18",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins407829@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "R19",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins407869@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "R2",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins387085@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "R3",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins387213@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R4",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins525148@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "R5",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins525164@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "SNFET_1_VD",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins475919@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "SNFET_2_VD",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins475859@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "SNFET_3_VD",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins475889@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "SNFET_4_VD",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins475710@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "SNFET_5_VB",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins461678@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "SNFET_5_VD",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins461662@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "8"
+		},
+		{
+			"Name" : "SNFET_5_VS",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins461646@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "SNFET_SHARED_VB",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins475822@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "SNFET_SHARED_VS",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins475783@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "SPFET_1_VB",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins461588@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "SPFET_1_VD",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins461572@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "SPFET_1_VS",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins461556@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "SPFET_2_VB",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins461367@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "SPFET_2_VD",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins461383@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "9"
+		},
+		{
+			"Name" : "SPFET_2_VS",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins461399@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "U1",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins1602@fscvmotherboardv2_libraries.\\msp430fr4132ig56.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "U10",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins392948@fscvmotherboardv2_libraries.\\tmux6234pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "U18",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins399683@fscvmotherboardv2_libraries.\\tmux6234pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "U2",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins543665@parts.\\volt_reg_adp7118ardz-3.3.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "U24",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins417331@fscvmotherboardv2_libraries.\\tmux6234pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "U25",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins488448@parts.\\tmux6119dcnr.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "U3",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins447040@fscvmotherboardv2_libraries.\\tps78401qdbvrq1.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "U4",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins384275@fscvmotherboardv2_libraries.\\tca9539pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "U5",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins380713@fscvmotherboardv2_libraries.\\ltc1983es6_5.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "U7",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins381176@fscvmotherboardv2_libraries.\\tps78401qdbvrq1.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "U8",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins381227@fscvmotherboardv2_libraries.\\max1735euk25t.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "VB",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins469427@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "VD1",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins469396@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "VD2",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins488226@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "VS",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins469354@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "X1",
+			"C_PATH" : "@fscvmotherboardv2.schematic1(sch_1):ins1885@fscvmotherboardv2_libraries.\\crystal.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		}
+	],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [],
+	"Connection" : []
+}

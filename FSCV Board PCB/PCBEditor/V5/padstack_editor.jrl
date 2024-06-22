@@ -1,0 +1,8 @@
+\t (00:00:00) padstack_editor 23.1 S002 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Mar  9 01:27:19 2024
+\t (00:00:00)         Host=ARK User=kaswi Pid=25864 CPUs=20
+\t (00:00:00) CmdLine= padstack_editor -mpssession kaswi -file C:/Users/kaswi/AppData/Local/Temp/#Taaaaau29280.tmp -pname POWER_VIA -data C:/Users/kaswi/AppData/Local/Temp/#Taaaaax29280.tmp
+\t (00:00:00) 
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:04) QtSignal MainWindow Exit triggered
+\t (00:00:04)     Journal end - Sat Mar  9 01:27:24 2024

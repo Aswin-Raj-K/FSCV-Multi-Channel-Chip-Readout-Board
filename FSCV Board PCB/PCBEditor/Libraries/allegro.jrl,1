@@ -1,0 +1,138 @@
+\t (00:00:04) allegro 23.1 S002 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sat Mar  9 16:17:58 2024
+\t (00:00:04)         Host=ARK User=kaswi Pid=28160 CPUs=20
+\t (00:00:04) CmdLine= d:\softwares\orcad\tools\bin\allegro.exe D:\Projects\PCB\FSCV Board V2\PCBEditor\Libraries\DBV0005A-IPC_A.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "DBV0005A-IPC_A"
+\d (00:00:06) Design opened: D:/Projects/PCB/FSCV Board V2/PCBEditor/Libraries/DBV0005A-IPC_A.dra
+\i (00:00:07) trapsize 3299
+\i (00:00:07) trapsize 3403
+\i (00:00:07) trapsize 3299
+\i (00:00:07) trapsize 2833
+\i (00:00:07) trapsize 2833
+\i (00:00:07) generaledit 
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 25.566 60.988
+\i (00:00:31) trapsize 1416
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 25.566 60.989
+\i (00:00:31) trapsize 708
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 27.973 48.950
+\i (00:00:31) trapsize 1416
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 27.974 48.951
+\i (00:00:31) trapsize 2833
+\i (00:00:33) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 55.735 65.381
+\i (00:00:33) trapsize 1416
+\i (00:00:37) move 
+\t (00:00:37) Select element(s) to move.
+\i (00:00:38) pick grid 10.412 127.417
+\t (00:00:38) last pick:  0.000 100.000
+\t (00:00:38) last pick:  -100.000 100.000
+\t (00:00:38) Pick new location for the element(s).
+\i (00:00:40) prepopup -96.663 159.426
+\i (00:00:41) done 
+\i (00:00:41) generaledit 
+\i (00:00:42) move 
+\t (00:00:42) Select element(s) to move.
+\i (00:00:43) pick grid -46.241 121.752
+\t (00:00:43) last pick:  0.000 100.000
+\t (00:00:43) last pick:  -100.000 100.000
+\t (00:00:43) Pick new location for the element(s).
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 34.490 105.888
+\i (00:00:43) trapsize 2833
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 32.791 105.322
+\i (00:00:43) trapsize 5665
+\i (00:00:44) pick grid 241.278 149.513
+\t (00:00:44) last pick:  200.000 100.000
+\i (00:00:46) pick grid -603.998 261.688
+\t (00:00:46) last pick:  -600.000 300.000
+\i (00:00:47) delete 
+\i (00:00:47) pick grid 6.731 112.122
+\t (00:00:47) last pick:  0.000 100.000
+\t (00:00:47) Text "Ref*"
+\i (00:00:47) pick grid dbl 6.731 112.122
+\t (00:00:47) last pick:  0.000 100.000
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in -316.197 195.969
+\i (00:00:48) trapsize 2833
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out -142.836 165.943
+\i (00:00:49) trapsize 5665
+\i (00:00:49) roam start
+\i (00:00:49) roam x 16
+\i (00:00:49) roam x 160
+\i (00:00:49) roam x 64
+\i (00:00:49) roam x 272
+\i (00:00:49) roam x 80
+\i (00:00:49) roam end
+\i (00:00:50) roam start
+\i (00:00:50) roam x -16
+\i (00:00:50) roam x -144
+\i (00:00:50) roam end
+\i (00:00:54) add text 
+\t (00:00:54) Pick text location.
+\i (00:00:58) setwindow form.mini
+\i (00:00:58) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) updateport CVPane
+\i (00:00:58) pick grid -29.078 122.886
+\t (00:00:58) last pick:  0.000 100.000
+\t (00:00:58) Enter text string.
+\i (00:00:58) setwindow pcb
+\i (00:00:58) pick grid dbl -29.078 122.886
+\t (00:00:58) last pick:  0.000 100.000
+\t (00:00:58) Enter text string.
+\i (00:01:00) setwindow pcb
+\i (00:01:00) pick 0.000 100.000
+\i (00:01:01) prepopup 91.029 240.726
+\i (00:01:02) done 
+\i (00:01:02) generaledit 
+\i (00:01:03) move 
+\t (00:01:03) Select element(s) to move.
+\i (00:01:04) pick grid 47.972 117.221
+\t (00:01:04) last pick:  0.000 100.000
+\t (00:01:04) last pick:  0.000 100.000
+\t (00:01:04) Pick new location for the element(s).
+\i (00:01:05) pick grid -50.606 101.358
+\t (00:01:05) last pick:  -100.000 100.000
+\i (00:01:05) pick grid 268.922 133.084
+\t (00:01:05) last pick:  300.000 100.000
+\t (00:01:05) last pick:  200.000 100.000
+\t (00:01:05) Pick new location for the element(s).
+\i (00:01:06) pick grid -50.606 105.890
+\t (00:01:06) last pick:  -100.000 100.000
+\i (00:01:06) prepopup 202.070 192.004
+\i (00:01:07) done 
+\i (00:01:07) generaledit 
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in -84.598 61.700
+\i (00:01:07) trapsize 2833
+\i (00:01:16) save 
+\i (00:01:17) fillin yes 
+\t (00:01:18) Symbol 'dbv0005a-ipc_a.psm' created.
+\i (00:01:18) generaledit 
+\i (00:01:24) opencd 'D:/Projects/PCB/FSCV Board V2/PCBEditor/V7/fscvmotherboardv2.brd' 
+\t (00:01:24) Opening existing design...
+\i (00:01:24) trapsize 2263
+\i (00:01:24) trapsize 2324
+\i (00:01:24) trapsize 2263
+\i (00:01:24) trapsize 2768
+\t (00:01:24)     Journal end - Sat Mar  9 16:19:19 2024

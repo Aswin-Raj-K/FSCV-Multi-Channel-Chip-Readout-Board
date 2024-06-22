@@ -1,0 +1,223 @@
+(ExpressProject "FSCVMotherBoardV2"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "23.1 S004 (4189164)  [4/25/2024]-[04/03/24]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\fscvmotherboardv2_libraries.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "D:\Projects\PCB\FSCV Board V2\Netlist")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\fscvmotherboardv2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "1")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "TRUE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Display_Online_DRC_Results "FALSE")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\FSCVMOTHERBOARDV2.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File "..\netlist\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\netlist\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\netlist\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (TPS7A2012PDBVR
+      (FullPartName "TPS7A2012PDBVR.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (Switch_1P2T_MSS-102559-14A-D
+      (FullPartName "Switch_1P2T_MSS-102559-14A-D.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (Res_3314J-1-754E
+      (FullPartName "Res_3314J-1-754E.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (Connec2
+      (FullPartName "Connec2.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (TMUX6234PWR
+      (FullPartName "TMUX6234PWR.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (TCA9539PWR
+      (FullPartName "TCA9539PWR.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (TP
+      (FullPartName "TP.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (MAX1735EUK25T
+      (FullPartName "MAX1735EUK25T.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (TPS78401QDBVRQ1
+      (FullPartName "TPS78401QDBVRQ1.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (LTC1983ES6_5
+      (FullPartName "LTC1983ES6_5.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (LTC1751EMS8_5
+      (FullPartName "LTC1751EMS8_5.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (PowerJack_PJ-002AH-SMT-TR
+      (FullPartName "PowerJack_PJ-002AH-SMT-TR.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (ADP7118ARDZ_3.3
+      (FullPartName "ADP7118ARDZ_3.3.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (ADP7118ARDZ-3P3
+      (FullPartName "ADP7118ARDZ-3P3.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (Crystal
+      (FullPartName "Crystal.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (JTAG_87831-1420
+      (FullPartName "JTAG_87831-1420.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    (MSP430FR4132IG56
+      (FullPartName "MSP430FR4132IG56.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0"))
+    ("FSCV HSEC8-160-01-L-RA x 2"
+      (FullPartName "FSCV HSEC8-160-01-L-RA x 2.Normal")
+      (LibraryName
+         "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2_LIBRARIES.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "d:\projects\pcb\fscv board v2\capture\fscvmotherboardv2.dsn")
+      (Path "Design Resources"
+         "d:\projects\pcb\fscv board v2\capture\fscvmotherboardv2.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "d:\projects\pcb\fscv board v2\capture\fscvmotherboardv2.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "d:\projects\pcb\fscv board v2\capture\fscvmotherboardv2.dsn"
+         "SCHEMATIC1" "PsuedoRes_TIABias_Transistors"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 747"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1393 24 765")
+        (Scroll "-75 0")
+        (Zoom "73")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Regulator_IOExpander"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1393 24 765")
+        (Scroll "-70 0")
+        (Zoom "52")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "EnableSignals_FSCVPorts"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1393 24 765")
+        (Scroll "2359 886")
+        (Zoom "208")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MCU_CardEdgeConnector"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1393 24 765")
+        (Scroll "0 271")
+        (Zoom "98")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\PCB\FSCV BOARD V2\CAPTURE\FSCVMOTHERBOARDV2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PsuedoRes_TIABias_Transistors")))
+  (MPSSessionName "kaswi")
+  (ISPCBBASICLICENSE "false"))
